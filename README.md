@@ -346,7 +346,7 @@
 11. Zaken met betrekking tot de vergaderorde worden door de partijraad
     vastgelegd in een [Reglement van Orde](#).
 
-12. Verslagen van partijraadsvergaderingen worden op de website
+12. Verslagen van partijraadsvergaderingen worden op de [website](#)
     gepubliceerd. De notulen zijn bij het partijbureau opvraagbaar voor
     leden.
 
@@ -985,11 +985,11 @@ wordt door het partijbestuur vastgelegd.
 
 ### Artikel 29: veiligheid en gedragscode
 
-1.  Het partijbestuur stelt een gedragscode in die van toepassing is op
+1.  Het partijbestuur stelt een [gedragscode](#) in die van toepassing is op
     alle leden van de vereniging en waarop ieder lid kan worden
     aangesproken.
 
-2.  Het partijbestuur stelt naast de gedragscode Safer Space-richtlijnen
+2.  Het partijbestuur stelt naast de gedragscode [Safer Space-richtlijnen](#)
     op die de veiligheid voor een ieder zoveel mogelijk waarborgen bij
     alle organisatie samenkomsten en samenwerkingen. Deze zijn ook van
     toepassing bij publieke evenementen en worden actief met de leden en
@@ -1004,7 +1004,7 @@ wordt door het partijbestuur vastgelegd.
     worden via interne communicatie bekend gemaakt.
 
 5.  De gedragscode en Safer Space-richtlijnen zijn te allen tijde op de
-    website van de partij beschikbaar.
+    [website van de partij](#) beschikbaar.
 
 ### Artikel 30: geschillen
 
@@ -1019,7 +1019,7 @@ wordt door het partijbestuur vastgelegd.
     partijraad.
 
 3.  De procedures omtrent geschillen en klachten staan omschreven in het
-    Reglement Geschillencommissie. Het Reglement Geschillencommissie
+    [Reglement Geschillencommissie](#). Het Reglement Geschillencommissie
     wordt vastgesteld door het partijbestuur.
 
 ## BEROEPSPROCEDURE
@@ -1065,13 +1065,13 @@ wordt door het partijbestuur vastgelegd.
     gedaan door het partijbestuur zelf.
 
 7.  De verdere procedures en termijnen omtrent beroepen staan omschreven
-    in het Reglement Geschillencommissie.
+    in het [Reglement Geschillencommissie](#).
 
 ## INZIEN DOOR LEDEN
 
 ### Artikel 32: inzien door leden
 
-1.  De [statuten](#) zijn te allen tijde op de website van de partij
+1.  De [statuten](#) zijn te allen tijde op de [website van de partij](#)
     beschikbaar.
 
 2.  Het huishoudelijk reglement is te allen tijde op de website van de
