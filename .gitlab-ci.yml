@@ -22,6 +22,7 @@ release:
     - echo "running release_job for $CI_COMMIT_REF_NAME"
   release:                                         # See https://docs.gitlab.com/ee/ci/yaml/#release for available properties
     tag_name: '$CI_COMMIT_REF_NAME'                # Keep one release per branch?
+    description: '$CI_JOB_STARTED_AT'
     ref: '$CI_COMMIT_SHA'                          # The tag is created from the pipeline SHA.
     released_at: '$CI_JOB_STARTED_AT'
     assets:
