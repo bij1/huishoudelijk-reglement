@@ -24,7 +24,6 @@ release:
     tag_name: '$CI_COMMIT_REF_NAME'                # Keep one release per branch?
     description: '$CI_JOB_STARTED_AT'
     ref: '$CI_COMMIT_SHA'                          # The tag is created from the pipeline SHA.
-    released_at: '$CI_JOB_STARTED_AT'
     assets:
       links:
         - name: 'html'
