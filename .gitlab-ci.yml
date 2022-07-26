@@ -11,15 +11,23 @@ build:
     name: pandoc/core
     entrypoint: ["/bin/sh", "-c"]
   script:
+    # Writing GE_JOB_ID variable to environment file, will need the value in the next stage.
+    - echo GE_JOB_ID=$CI_JOB_ID >> CI_JOB_ID.txt
     - mkdir dist
     - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --css=style.css --metadata title="Huishoudelijk Reglement"
   artifacts:
     paths:
       - dist/
+    reports:
+      # To ensure we've access to this file in the next stage
+      dotenv: CI_JOB_ID.txt
 
 release:
   stage: release
   image: registry.gitlab.com/gitlab-org/release-cli:latest
+  needs:
+    - job: build
+      artifacts: true
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH  # Run this job when commits are pushed or merged to the default branch
   script:
@@ -31,4 +39,4 @@ release:
     assets:
       links:
         - name: 'html'
-          url: "${PACKAGE_REGISTRY_URL}/${HTML_PATH}"
+          url: "https://gitlab.com/bij1/huishoudelijk-reglement/-/jobs/`cat CI_JOB_ID.txt`/artifacts/file/${HTML_PATH}"
