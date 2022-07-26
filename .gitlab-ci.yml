@@ -10,7 +10,7 @@ variables:
 build:
   stage: build
   image:
-    name: pandoc
+    name: pandoc/core
     entrypoint: ["/bin/sh", "-c"]
   script:
     - mkdir dist
