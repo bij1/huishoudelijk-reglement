@@ -4,14 +4,18 @@ stages:
 
 variables:
   HTML_PATH: huishoudelijk-reglement.html
+  EPUB_PATH: huishoudelijk-reglement.epub
+  PDF_PATH : huishoudelijk-reglement.pdf
 
 build:
   stage: build
-  image: pandoc/latex:latest-alpine
-  entrypoint: [""]
+  image:
+    name: pandoc
+    entrypoint: ["/bin/sh", "-c"]
   script:
     - mkdir dist
-    - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --metadata title="Huishoudelijk Reglement"
+    - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --css=style.css --metadata title="Huishoudelijk Reglement"
+    - pandoc metadata.txt README.md -o dist/$EPUB_PATH -s --toc --css=style.css
   artifacts:
     paths:
       - dist/
@@ -19,6 +23,8 @@ build:
 release:
   stage: release
   image: registry.gitlab.com/gitlab-org/release-cli:latest
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH  # Run this job when commits are pushed or merged to the default branch
   script:
     - echo "running release_job for $CI_COMMIT_REF_NAME"
   release:                                         # See https://docs.gitlab.com/ee/ci/yaml/#release for available properties
@@ -29,3 +35,7 @@ release:
       links:
         - name: 'html'
           url: "${PACKAGE_REGISTRY_URL}/${HTML_PATH}"
+        - name: 'epub'
+          url: "${PACKAGE_REGISTRY_URL}/${EPUB_PATH}"
+        - name: 'pdf'
+          url: "${PACKAGE_REGISTRY_URL}/${PDF_PATH}"
