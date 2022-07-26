@@ -8,6 +8,7 @@ variables:
 build:
   stage: build
   image: pandoc/latex:latest-alpine
+  entrypoint: [""]
   script:
     - mkdir dist
     - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --metadata title="Huishoudelijk Reglement"
