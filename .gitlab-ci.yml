@@ -23,4 +23,4 @@ upload:
   image: curlimages/curl:latest
   script:
     - |
-      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/${CI_COMMIT_BRANCH}/${CI_JOB_STARTED_AT}/${HTML_PATH}
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/assets/${CI_COMMIT_BRANCH}/${HTML_PATH}
