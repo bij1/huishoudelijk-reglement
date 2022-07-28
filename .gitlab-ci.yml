@@ -12,13 +12,11 @@ build:
     name: pandoc/core
     entrypoint: ["/bin/sh", "-c"]
   script:
-    - echo "${CI_JOB_ID}" > CI_JOB_ID.txt # This way you know the job id in the next stage
     - mkdir dist
     - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --css=style.css --metadata title="Huishoudelijk Reglement"
   artifacts:
     paths:
       - dist/
-      - CI_JOB_ID.txt
 
 upload:
   stage: upload
