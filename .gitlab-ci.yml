@@ -25,6 +25,6 @@ upload:
   image: curlimages/curl:latest
   script:
     - |
-      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/assets/${CI_COMMIT_BRANCH}/${HTML_PATH}
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/html/${CI_COMMIT_BRANCH}/${HTML_PATH}
     - |
-      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${EPUB_PATH} ${PACKAGE_REGISTRY_URL}/assets/${CI_COMMIT_BRANCH}/${EPUB_PATH}
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${EPUB_PATH} ${PACKAGE_REGISTRY_URL}/epub/${CI_COMMIT_BRANCH}/${EPUB_PATH}
