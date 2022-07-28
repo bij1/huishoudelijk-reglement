@@ -1,5 +1,5 @@
 include:
-  - project: 'bij1/ci-templates'  
+  - project: 'bij1/ci-templates'
     ref: 'main'
     file: 'markdown.yml'
 
