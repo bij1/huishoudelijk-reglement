@@ -54,5 +54,7 @@ release:
     ref: '$CI_COMMIT_SHA'                          # The tag is created from the pipeline SHA.
     assets:
       links:
+        - name: package
+          url: "${PACKAGE_REGISTRY_URL}"
         - name: 'html'
           url: "https://gitlab.com/bij1/huishoudelijk-reglement/-/jobs/`cat CI_JOB_ID.txt`/artifacts/file/${HTML_PATH}"
