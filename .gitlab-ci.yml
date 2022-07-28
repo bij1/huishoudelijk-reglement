@@ -1,7 +1,6 @@
 stages:
   - build
   - upload
-  - release
 
 variables:
   PACKAGE_REGISTRY_URL: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic"
@@ -25,36 +24,5 @@ upload:
   stage: upload
   image: curlimages/curl:latest
   script:
-    - echo ${CI_PROJECT_ID}
-    - echo ${CI_API_V4_URL}
-    - echo ${CI_JOB_TOKEN}
-    - ls
     - |
-      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/html/${CI_COMMIT_BRANCH}/${HTML_PATH}
-
-release:
-  stage: release
-  image: registry.gitlab.com/gitlab-org/release-cli:latest
-  needs:
-    - job: build
-      artifacts: true
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH  # Run this job when commits are pushed or merged to the default branch
-  script:
-    - echo "running release_job for $CI_COMMIT_REF_NAME"
-    - pwd
-    - ls
-    - ls CI_JOB_ID.txt
-    - cat CI_JOB_ID.txt
-    - ls dist
-  release:                                         # See https://docs.gitlab.com/ee/ci/yaml/#release for available properties
-    # tag_name: '$CI_COMMIT_REF_NAME'                # Keep one release per branch? - blocked https://gitlab.com/gitlab-org/gitlab/-/issues/299293
-    tag_name: '$CI_COMMIT_SHA'
-    description: '$CI_COMMIT_REF_NAME $CI_JOB_STARTED_AT'
-    ref: '$CI_COMMIT_SHA'                          # The tag is created from the pipeline SHA.
-    assets:
-      links:
-        - name: package
-          url: "${PACKAGE_REGISTRY_URL}"
-        - name: 'html'
-          url: "https://gitlab.com/bij1/huishoudelijk-reglement/-/jobs/`cat CI_JOB_ID.txt`/artifacts/file/${HTML_PATH}"
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/${CI_COMMIT_BRANCH}/${CI_JOB_STARTED_AT}/${HTML_PATH}
