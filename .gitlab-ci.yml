@@ -5,6 +5,7 @@ stages:
 variables:
   PACKAGE_REGISTRY_URL: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic"
   HTML_PATH: huishoudelijk-reglement.html
+  EPUB_PATH: huishoudelijk-reglement.epub
 
 build:
   stage: build
@@ -13,7 +14,8 @@ build:
     entrypoint: ["/bin/sh", "-c"]
   script:
     - mkdir dist
-    - pandoc metadata.txt README.md -o dist/$HTML_PATH -s --toc --css=style.css --metadata title="Huishoudelijk Reglement"
+    - pandoc metadata.txt README.md -o dist/${HTML_PATH} -s --toc --css=style.css --metadata title="Huishoudelijk Reglement"
+    - pandoc metadata.txt README.md -o dist/${EPUB_PATH} -s --toc --css=style.css
   artifacts:
     paths:
       - dist/
@@ -24,3 +26,5 @@ upload:
   script:
     - |
       curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/assets/${CI_COMMIT_BRANCH}/${HTML_PATH}
+    - |
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${EPUB_PATH} ${PACKAGE_REGISTRY_URL}/assets/${CI_COMMIT_BRANCH}/${EPUB_PATH}
