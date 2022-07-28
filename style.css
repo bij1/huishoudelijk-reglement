@@ -1,0 +1,46 @@
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    font-family:
+        "BIJ1",
+        sans-serif;
+    margin: auto;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 { text-transform: uppercase; }
+
+h1, h2, h3, h4, h5, h6 { background-color: #FFFF00; }
+
+a {
+    color: #666666;
+}
+
+p a {
+    color: #C700BF;
+}
+
+h1.title {
+    margin-top: 0;
+    text-align: center;
+}
+
+p.author {
+    text-align: center;
+}
+
+ol.toc {
+    padding: 0;
+    margin: 1em 0;
+    padding: 0 0 0 2em;
+}
+
+ul.toc ul, ol.toc ol {
+    margin: .3em 0;
+}
