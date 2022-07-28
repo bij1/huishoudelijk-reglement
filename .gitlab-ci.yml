@@ -4,7 +4,7 @@ stages:
   - release
 
 variables:
-  PACKAGE_REGISTRY_URL: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/myawesomerelease/${PACKAGE_VERSION}"
+  PACKAGE_REGISTRY_URL: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/myawesomerelease/0.0.1"
   HTML_PATH: huishoudelijk-reglement.html
 
 build:
@@ -27,7 +27,6 @@ upload:
   script:
     - echo ${CI_PROJECT_ID}
     - echo ${CI_API_V4_URL}
-    - echo ${PACKAGE_VERSION}
     - echo ${CI_JOB_TOKEN}
     - ls
     - |
