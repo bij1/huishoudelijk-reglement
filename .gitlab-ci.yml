@@ -1,8 +1,10 @@
 stages:
   - build
+  - upload
   - release
 
 variables:
+  PACKAGE_REGISTRY_URL: "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/myawesomerelease/${PACKAGE_VERSION}"
   HTML_PATH: huishoudelijk-reglement.html
 
 build:
@@ -18,6 +20,18 @@ build:
     paths:
       - dist/
       - CI_JOB_ID.txt
+
+upload:
+  stage: upload
+  image: curlimages/curl:latest
+  script:
+    - echo ${CI_PROJECT_ID}
+    - echo ${CI_API_V4_URL}
+    - echo ${PACKAGE_VERSION}
+    - echo ${CI_JOB_TOKEN}
+    - ls
+    - |
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${HTML_PATH} ${PACKAGE_REGISTRY_URL}/${HTML_PATH}
 
 release:
   stage: release
@@ -35,7 +49,7 @@ release:
     - cat CI_JOB_ID.txt
     - ls dist
   release:                                         # See https://docs.gitlab.com/ee/ci/yaml/#release for available properties
-    # tag_name: '$CI_COMMIT_REF_NAME'                # Keep one release per branch?
+    # tag_name: '$CI_COMMIT_REF_NAME'                # Keep one release per branch? - blocked https://gitlab.com/gitlab-org/gitlab/-/issues/299293
     tag_name: '$CI_COMMIT_SHA'
     description: '$CI_COMMIT_REF_NAME $CI_JOB_STARTED_AT'
     ref: '$CI_COMMIT_SHA'                          # The tag is created from the pipeline SHA.
