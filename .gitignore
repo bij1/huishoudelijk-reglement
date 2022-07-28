@@ -3,6 +3,8 @@
 *.epub
 *.pub
 *.lua
+*.md.tex
+_markdown_main
 
 # https://github.com/github/gitignore/blob/main/TeX.gitignore
 
