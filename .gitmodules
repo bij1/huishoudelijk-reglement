@@ -1,0 +1,3 @@
+[submodule "bij1-font"]
+	path = bij1-font
+	url = git@gitlab.com:bij1/bij1-font.git
