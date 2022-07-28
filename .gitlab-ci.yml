@@ -1,7 +1,7 @@
 include:
-  - project: 'bij1/ci-templates'
-    ref: 'main'
-    file: 'markdown.yml'
+  - project: bij1/ci-templates
+    ref: main
+    file: markdown.yml
 
 variables:
   PROJECT_ID  : ${CI_PROJECT_ID}
@@ -16,7 +16,7 @@ build-pdf:
     entrypoint: ["/bin/sh", "-c"]
   script:
     - mkdir dist
-    - xelatex --shell-escape main.tex
+    - xelatex --shell-escape -interaction=nonstopmode main.tex
     - cp main.pdf dist/${PDF_PATH}
   artifacts:
     paths:
