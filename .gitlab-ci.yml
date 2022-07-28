@@ -8,3 +8,24 @@ variables:
   PROJECT_NAME: ${CI_PROJECT_NAME}
   PROJECT_SLUG: ${CI_PROJECT_PATH_SLUG}
   MARKDOWN_FILE: README.md
+  PDF_PATH: ${CI_PROJECT_PATH_SLUG}.pdf
+
+build-pdf:
+  image:
+    name: texlive/texlive:latest
+    entrypoint: ["/bin/sh", "-c"]
+  script:
+    - mkdir dist
+    - xelatex --shell-escape main.tex
+    - cp main.pdf dist/${PDF_PATH}
+  artifacts:
+    paths:
+      - dist/
+
+upload-pdf:
+  image: curlimages/curl:latest
+  needs:
+    - build-pdf
+  script:
+    - |
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file dist/${PDF_PATH} ${PACKAGE_REGISTRY_URL}/pdf/${CI_COMMIT_BRANCH}/${PDF_PATH}
