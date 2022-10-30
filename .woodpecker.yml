@@ -1,7 +1,7 @@
 pipeline:
 
   package:
-    image: pandoc/core:latest
+    image: pandoc/latex:latest
     commands:
       - apk update && apk add curl
       - mkdir dist
