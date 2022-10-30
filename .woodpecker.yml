@@ -1,9 +1,7 @@
 pipeline:
 
   build-pandoc:
-    image:
-      name: pandoc/core:latest
-      entrypoint: ["/bin/sh", "-c"]
+    image: pandoc/core:latest
     environment:
       MARKDOWN_FILE: README.md
       HTML_PATH: ${CI_REPO_NAME}.html
@@ -21,9 +19,7 @@ pipeline:
         branch: main
 
   build-pdf:
-    image:
-      name: pandoc/core:latest
-      entrypoint: ["/bin/sh", "-c"]
+    image: pandoc/core:latest
     environment:
       PDF_PATH: ${CI_REPO_NAME}.pdf
     commands:
