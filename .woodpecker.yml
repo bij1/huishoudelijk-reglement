@@ -6,9 +6,6 @@ pipeline:
       - HTML_PATH=${CI_REPO_NAME}.html
       - EPUB_PATH=${CI_REPO_NAME}.epub
     commands:
-      - which apt-get
-      - which apt
-      - which pkg
       - apt update && apt install -y curl
       - mkdir dist
       - pandoc metadata.txt README.md -o dist/${HTML_PATH} -s --toc --css=style.css --self-contained --metadata title=$CI_PROJECT_NAME
