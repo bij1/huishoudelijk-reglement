@@ -5,6 +5,7 @@ pipeline:
     commands:
       - apk update && apk add curl
       - mkdir dist
+      - curl --user ci:$TOKEN -X DELETE https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_BRANCH}
       - pandoc metadata.txt README.md -o dist/${CI_REPO_NAME}.html -s --toc --css=style.css --self-contained --metadata title=$CI_PROJECT_NAME
       - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.html https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_BRANCH}/${CI_REPO_NAME}.html
       - pandoc metadata.txt README.md -o dist/${CI_REPO_NAME}.epub -s --toc --css=style.css
