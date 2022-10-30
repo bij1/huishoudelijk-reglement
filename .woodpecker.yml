@@ -1,6 +1,6 @@
 pipeline:
 
-  package:
+  package-ebook:
     image: pandoc/latex:latest
     commands:
       - apk update && apk add curl
@@ -9,6 +9,15 @@ pipeline:
       - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.html https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/html/${CI_REPO_NAME}.html
       - pandoc metadata.txt README.md -o dist/${CI_REPO_NAME}.epub -s --toc --css=style.css
       - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.epub https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/epub/${CI_REPO_NAME}.epub
+    secrets: [ token ]
+    when:
+      event: push
+      branch: main
+
+  package-pdf:
+    image: witiko/markdown:latest
+    commands:
+      - apk update && apk add curl
       - xelatex --shell-escape -interaction=nonstopmode main.tex
       - curl --user ci:$TOKEN --upload-file main.pdf https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/pdf/${CI_REPO_NAME}.pdf
     secrets: [ token ]
