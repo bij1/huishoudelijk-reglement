@@ -13,5 +13,5 @@ pipeline:
       - curl --user ci:$TOKEN --upload-file main.pdf https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/pdf/${CI_REPO_NAME}.pdf
     secrets: [ token ]
     when:
-      - event: push
-        branch: main
+      event: push
+      branch: main
