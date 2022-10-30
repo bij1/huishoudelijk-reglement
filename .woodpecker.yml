@@ -1,0 +1,38 @@
+pipeline:
+
+  build-pandoc:
+    image:
+      name: pandoc/core:latest
+      entrypoint: ["/bin/sh", "-c"]
+    environment:
+      MARKDOWN_FILE: README.md
+      HTML_PATH: ${CI_REPO_NAME}.html
+      EPUB_PATH: ${CI_REPO_NAME}.epub
+    commands:
+      - apt-get update && apt-get install -y curl
+      - mkdir dist
+      - pandoc metadata.txt ${MARKDOWN_FILE} -o dist/${HTML_PATH} -s --toc --css=style.css --self-contained --metadata title=$CI_PROJECT_NAME
+      - pandoc metadata.txt ${MARKDOWN_FILE} -o dist/${EPUB_PATH} -s --toc --css=style.css
+      - curl --user ci:$TOKEN --upload-file dist/${HTML_PATH} https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${HTML_PATH}
+      - curl --user ci:$TOKEN --upload-file dist/${EPUB_PATH} https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${EPUB_PATH}
+    secrets: [ token ]
+    when:
+      - event: push
+        branch: main
+
+  build-pdf:
+    image:
+      name: pandoc/core:latest
+      entrypoint: ["/bin/sh", "-c"]
+    environment:
+      PDF_PATH: ${CI_REPO_NAME}.pdf
+    commands:
+      - apt-get update && apt-get install -y curl
+      - mkdir dist
+      - xelatex --shell-escape -interaction=nonstopmode main.tex
+      - cp main.pdf dist/${PDF_PATH}
+      - curl --user ci:$TOKEN --upload-file dist/${HTML_PATH} https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${PDF_PATH}
+    secrets: [ token ]
+    when:
+      - event: push
+        branch: main
