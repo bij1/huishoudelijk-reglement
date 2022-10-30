@@ -17,7 +17,7 @@ pipeline:
   package-pdf:
     image: witiko/markdown:latest
     commands:
-      - apk update && apk add curl
+      - git submodule init && git submodule update
       - xelatex --shell-escape -interaction=nonstopmode main.tex
       - curl --user ci:$TOKEN --upload-file main.pdf https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/pdf/${CI_REPO_NAME}.pdf
     secrets: [ token ]
