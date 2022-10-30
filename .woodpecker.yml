@@ -6,11 +6,11 @@ pipeline:
       - apk update && apk add curl
       - mkdir dist
       - pandoc metadata.txt README.md -o dist/${CI_REPO_NAME}.html -s --toc --css=style.css --self-contained --metadata title=$CI_PROJECT_NAME
-      - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.html https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${CI_REPO_NAME}.html
+      - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.html https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_BRANCH}/${CI_REPO_NAME}.html
       - pandoc metadata.txt README.md -o dist/${CI_REPO_NAME}.epub -s --toc --css=style.css
-      - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.epub https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${CI_REPO_NAME}.epub
+      - curl --user ci:$TOKEN --upload-file dist/${CI_REPO_NAME}.epub https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_BRANCH}/${CI_REPO_NAME}.epub
       - xelatex --shell-escape -interaction=nonstopmode main.tex
-      - curl --user ci:$TOKEN --upload-file main.pdf https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}/${CI_REPO_NAME}.pdf
+      - curl --user ci:$TOKEN --upload-file main.pdf https://code.bij1.org/api/packages/bij1/generic/${CI_REPO_NAME}/${CI_COMMIT_BRANCH}/${CI_REPO_NAME}.pdf
     secrets: [ token ]
     when:
       - event: push
