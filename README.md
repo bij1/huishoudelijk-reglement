@@ -439,10 +439,10 @@
 
 ## Artikel 11. het partijbureau
 
-1.  De secretaris en de penningmeester van het partijbestuur zijn
-    verantwoordelijk voor het partijbureau.
+1.  Het partijbureau is een uitvoerend orgaan van de partij.
+    Zij valt onder de verantwoordelijkheid van &mdash; en handelt in naam van het partijbestuur.
 
-1.  Het partijbureau draagt zorg voor:
+1.  Het partijbureau draagt onder meer zorg voor:
 
     1.  de ledenadministratie;
 
