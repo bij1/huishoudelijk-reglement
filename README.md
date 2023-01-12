@@ -41,22 +41,29 @@
 
 ## Artikel 3. de algemene vergadering
 
-1.  De algemene vergadering is het hoogste beslissende orgaan van de
-    partij.
+1.  De algemene vergadering is het hoogste orgaan van de partij.
+    Zij bespreekt en besluit fundamentele politieke en organisatorische kwesties.
 
-1.  De algemene vergadering wordt georganiseerd en voorgezeten door het
-    partijbestuur. Het partijbestuur stelt de agenda daarvoor vast. Alle
-    leden worden minstens twee weken van tevoren geïnformeerd over
-    locatie, tijd en agenda. De locatie is toegankelijk voor alle leden.
+1.  Ieder lid heeft toegang tot de algemene vergadering.
 
-1.  Ieder lid heeft toegang tot de algemene vergadering. Hiertoe worden
-    tijdig stappen ondernomen voor bijvoorbeeld schrijf- en
-    gebarentolken, toegankelijke visuele presentaties, en andere
-    benodigdheden. Een toereikend deel van de landelijke partijkas wordt
-    hiervoor toegekend.
+1.  De algemene vergadering wordt georganiseerd en gefaciliteerd door het partijbestuur.
+    Het partijbestuur stelt een voorstel voor een agenda op.
+    Alle leden worden middels een schriftelijke uitnodiging minstens twee weken
+    van tevoren geïnformeerd over de locatie, tijd en de voorgestelde agenda.
 
-1.  De algemene vergadering heeft in ieder geval de volgende
-    bevoegdheden:
+1.  De algemene vergadering stelt ter vergadering haar eigen vergaderagenda vast.
+
+1.  De algemene vergadering vergadert onder leiding van een
+    ter vergadering uit haar midden gekozen presidium.
+    Dit presidium bestaat onder meer uit de voorzitter van de vergadering.
+
+1.  Van het tijdens de algemene vergadering behandelde worden notulen opgesteld door het presidium.
+    Deze notulen bevatten onder meer alle op de vergadering genomen besluiten,
+    gedane toezeggingen en de uitslagen van alle stemmingen.
+    Deze notulen worden zo snel mogelijk na de vergadering gedeeld met alle leden en
+    tijdens de eerstvolgende algemene vergadering ter goedkeuring voorgelegd aan de leden.
+
+1.  De algemene vergadering heeft in ieder geval de volgende bevoegdheden:
 
     1.  Het controleren van het partijbestuur, de partijraad, de landelijke,
         provinciale en Europese fracties;
@@ -69,8 +76,7 @@
     1.  Het vaststellen van de jaarrekening en het voeren van controle op de
         financiële bescheiden middels de kascontrolecommissie;
 
-    1.  Het besluiten over wijzigingen in de [statuten](#) en, behoudens de
-        bepalingen van [artikel 32](#) van dit reglement, het huishoudelijk
+    1.  Het besluiten over wijzigingen in de [statuten](#) en het huishoudelijk
         reglement;
 
     1.  Het vaststellen van de jaarlijks te betalen contributie.
@@ -79,35 +85,42 @@
 
 1.  Stemmingen worden mondeling gehouden, tenzij een lid een
     schriftelijke stemming aanvraagt of de voorzitter een schriftelijke
-    stemming gewenst acht. Bij schriftelijke stemming zal uit de
-    aanwezige leden een stemcommissie samengesteld worden die zal
-    toezien op het tellen van de stemmen. Over personen wordt altijd
-    schriftelijk gestemd.
+    stemming wenselijk acht.
+    Over personen wordt altijd schriftelijk gestemd.
 
-1.  Besluiten worden genomen door een absolute meerderheid van stemmen,
-    tenzij in de [statuten](#) of dit reglement anders staat aangegeven.
-
-1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
-    recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
-    moet een schriftelijke machtiging opgesteld worden. Deze machtiging
-    is bij het bestuur te verkrijgen.
-
-1.  Op de machtiging staan de eisen vermeld waaraan de volmachtgever en
-    de gemachtigde moeten voldoen. Vierentwintig uur voor de vergadering
-    dient deze machtiging door de volmachtgever gemeld te worden bij het
-    partijbestuur en moet door de gemachtigde worden meegenomen in de
-    vergadering ter verificatie. Bij een online vergadering moet de
-    machtiging tenminste een uur voor de vergadering langs elektronische
-    weg verstuurd worden.
-
-1.  Een lid mag namens maximaal twee andere leden een stem uitbrengen.
+1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
+    tenzij in de [statuten](#) of in dit reglement anders is bepaald.
 
 1.  De basisbepalingen over de besluitvorming zijn vastgelegd in de
     [statuten](#).
 
 1.  Verdere zaken met betrekking tot de vergaderorde en
-    besluitvormingsprocessen worden door de algemene vergadering
-    vastgelegd in een [Reglement van Orde](#).
+    besluitvormingsprocessen kunnen door de algemene vergadering worden
+    vastgelegd in een [reglement van orde](#).
+
+## Artikel 5. Toegankelijkheid
+
+1.  Er worden tijdig stappen ondernomen om de algemene vergadering
+    zo toegankelijk mogelijk te maken voor alle leden.
+    Hieronder kunnen bijvoorbeeld vallen: schrijf- en gebarentolken,
+    toegankelijke visuele presentaties, het bieden van een
+    mogelijkheid de vergadering digitaal bij te wonen
+    en het het zorgvuldig kiezen van de locatie.
+    Een toereikend deel van de landelijke partijkas wordt
+    hiervoor toegekend.
+
+1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
+    recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
+    moet een schriftelijke machtiging ingediend worden.
+    Het partijbestuur deelt in de uitnodiging mee hoe een machtiging
+    ingediend dient te worden.
+
+1.  Vierentwintig uur voor de vergadering
+    dient de machtiging door de volmachtgever ingediend te worden bij het partijbestuur.
+    Deze machtiging moet ter verificatie tevens door de gemachtigde worden meegenomen in de
+    vergadering.
+
+1.  Een gemachtigd lid mag namens maximaal twee andere leden een stem uitbrengen.
 
 # DE PARTIJRAAD
 
