@@ -542,14 +542,23 @@
 
 ## Artikel 15. de Afdelingsvergadering
 
-1.  Een afdeling is het hoogste orgaan in de afdeling en organiseert
-    minstens eenmaal per jaar een afdelingsvergadering en voorts zo vaak
-    als het afdelingsbestuur dit noodzakelijk acht.
+1.  De afdelingsvergadering is het hoogste orgaan binnen de afdeling.
+
+1.  De afdelingsvergadering komt tenminste eenmaal per jaar samen en voorts zo vaak
+    het afdelingsbestuur dit wenselijk acht.
 
 1.  Het afdelingsbestuur roept de afdelingsvergadering bijeen en stelt
-    de agenda daarvoor vast. Alle leden die woonachtig zijn binnen het
+    een voorstel voor een agenda op.
+
+1.  Alle leden die woonachtig zijn binnen het
     afdelingsgebied worden minstens twee weken van tevoren geïnformeerd
-    over locatie, tijd en agenda.
+    over locatie, tijd en de voorgestelde agenda.
+
+1.  De afdelingsvergadering stelt ter vergadering haar eigen vergaderagenda vast.
+
+1.  De afdelingsvergadering vergadert onder leiding van
+    een ter vergadering gekozen presidium.
+    Dit presidium bestaat onder meer uit de voorzitter van de vergadering.
 
 1.  De afdelingsvergadering is toegankelijk voor alle leden van de
     afdeling. Hiertoe worden tijdig stappen ondernomen voor bijvoorbeeld
@@ -558,17 +567,18 @@
     partijkas wordt hiervoor toegekend.
 
 1.  Van afdelingsvergaderingen wordt een schriftelijk verslag opgesteld.
-    Het verslag wordt ter goedkeuring voorgelegd op de eerstvolgende
-    afdelingsvergadering en gedeeld met de leden.
+    Het verslag wordt zo spoedig mogelijk na de vergadering
+    schriftelijk aan de leden van de afdeling, het partijbestuur,
+    het partijbureau en de partijraad toegezonden.
+    Het verslag wordt op de eerstvolgende afdelingsvergadering
+    ter goedkeuring voorgelegd aan de leden.
 
-1.  Leden hebben het recht het afdelingsbestuur op te roepen tot het
-    organiseren van een afdelingsvergadering. Hiervoor kunnen tenminste
-    25 leden, of ten minste 10% van de leden, die woonachtig zijn binnen
-    het afdelingsgebied een schriftelijk verzoek indienen. Het
-    afdelingsbestuur roept de afdelingsvergadering vervolgens zo spoedig
-    mogelijk, doch in ieder geval binnen een maand, bijeen. Het door
-    deze leden aan de orde gestelde punt wordt door het afdelingsbestuur
-    op de agenda geplaatst.
+1.  De afdelingsvergadering kan door leden van een afdeling bijeen geroepen worden.
+    Dit geschiedt via een schriftelijke bijeenroeping die wordt ondersteund door
+    tenminste 25 leden of door tenminste 10% van de leden van de afdeling,
+    waarbij het laagste aantal telt.
+    De agenda voor deze afdelingsvergadering bevat in ieder geval
+    het door deze leden aan de orde gestelde punt.
 
 1.  De leden die woonachtig zijn binnen het afdelingsgebied kunnen
     vooraf aan de vergadering en ter vergadering agendapunten
@@ -598,10 +608,10 @@
     te zijn van onwaarde en worden bij het bepalen van een meerderheid
     niet meegeteld.
 
-1.  Besluiten worden genomen door een absolute meerderheid van stemmen,
+1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
     tenzij in de [statuten](#) of dit reglement anders staat aangegeven.
-    Indien de stemmen staken, dan wordt er opnieuw gestemd. Dit gebeurt
-    net zo vaak totdat er een beslissing is.
+    Indien de stemmen staken, dan wordt er opnieuw gestemd.
+    Staken de stemmen nogmaals, dan beslist het lot.
 
 1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
     recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
