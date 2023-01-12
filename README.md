@@ -404,36 +404,36 @@
 1.  Opzeggen van het lidmaatschap van de partij leidt altijd tot ontslag
     uit het partijbestuur.
 
-# COMMISSIES
+# COMMISSIES, GREMIA EN WERKGROEPEN
 
-## Artikel 10. commissies
+## Artikel 10. Commissies, gremia en werkgroepen
 
-1.  Het partijbestuur is statutair bevoegd om onder diens
-    verantwoordelijkheid gremia en commissies in te stellen.
+1.  Het partijbestuur, de partijraad en de afdelingsbesturen zijn bevoegd om onder hun
+    verantwoordelijkheid commissies, gremia en werkgroepen in te stellen.
 
-1.  Het partijbestuur heeft als taak het:
+1.  Het orgaan onder wiens verantwoordelijkheid de commissie, het gremium of de werkgroep valt heeft als taak het:
 
-    1.  benoemen, schorsen en ontslaan van commissieleden;
+    1.  benoemen, schorsen en ontslaan van de leden van de commissie, het gremium of de werkgroep;
 
     1.  formuleren, het vaststellen en het in samenspraak met leden van
-        de commissie herzien van de opdracht aan een commissie;
+    de commissie, het gremium of de werkgroep herzien van de opdracht aan een commissie, gremium of werkgroep;
 
     1.  het controleren van de uitvoering van hetgeen in de
-        commissie-opdracht is bepaald;
+        opdracht is bepaald;
 
-    1.  vaststellen van de financiële bevoegdheid van de commissies;
+    1.  vaststellen van de financiële bevoegdheid van de de commissie, het gremium of de werkgroep;
 
-    1.  in samenspraak met de commissie opheffen van de commissie
+    1.  in samenspraak met de commissie, het gremium of de werkgroep het opheffen van de commissie, het gremium of de werkgroep.
 
-1.  Over de uitvoering van hun opdracht legt de commissie verantwoording
-    af aan het partijbestuur.
+1.  Over de uitvoering van hun opdracht legt de commissie, het gremium of de werkgroep verantwoording
+    af aan het orgaan onder wiens verantwoordelijkheid ze valt.
 
 1.  In een kandidatencommissie voor welke verkiezing dan ook, kan geen
     lid plaatsnemen dat zich tevens kandidaat stelt voor de betreffende
     verkiezing.
 
-1.  De zittingstermijn en besluitvormingsmodellen van een commissie
-    worden in de opdracht vastgesteld.
+1.  De zittingstermijn en besluitvormingsmodellen van de commissie,
+    het gremium of de werkgroep worden in de opdracht vastgesteld.
 
 # HET PARTIJBUREAU
 
