@@ -24,18 +24,19 @@
 
 ## Artikel 2. contributie
 
-1.  De hoogte van de door de leden te betalen contributie wordt
-    jaarlijks door de algemene vergadering vastgesteld.
+1.  De hoogte van de reguliere door de leden te betalen contributie wordt
+    door de algemene vergadering vastgesteld.
+    Daarnaast kan de partij afwijkende contributietarieven hanteren.
+    Ook dezen worden door de algemene vergadering vastgesteld.
 
-1.  Er kan door de algemene vergadering een afwijkende hoogte voor de
-    contributie voor leden woonachtig in Caribisch Nederland worden
-    vastgesteld ten opzichte van de hoogte van de contributie zoals
-    bedoeld in [lid 1](#).
+1.  Regelmatig wordt geëvalueerd of de hoogte van de tarieven past bij de
+    economische situatie, en indien nodig wordt de hoogte gewijzigd.
 
-1.  De vereniging hanteert tevens een sociaal tarief voor wie de te
-    betalen contributie niet kan worden betaald om financiële redenen.
-    De hoogte van dit tarief wordt ook jaarlijks door de algemene
-    vergadering vastgesteld.
+1.  Er kan een afwijkende tarief voor leden woonachtig in Caribisch Nederland
+    worden vastgesteld.
+
+1.  De vereniging hanteert een sociaal tarief voor leden die de reguliere
+    contributie om financiële redenen niet kunnen betalen.
 
 # DE ALGEMENE VERGADERING
 
@@ -78,8 +79,6 @@
 
     1.  Het besluiten over wijzigingen in de [statuten](#) en het huishoudelijk
         reglement;
-
-    1.  Het vaststellen van de jaarlijks te betalen contributie.
 
 ## Artikel 4. besluitvorming
 
