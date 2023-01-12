@@ -499,14 +499,14 @@
         binnen het gebied van de afdeling wonen;
 
     1.  de afdeling in oprichting heeft een afdelingsbestuur gekozen van
-        tenminste 3 leden, dat functioneert conform de bepalingen van
-        [artikel 17](#) van dit reglement;
+        tenminste 3 leden, dat functioneert conform de bepalingen in
+        in het huishoudelijk reglement en de statuten van de partij;
 
     1.  de afdeling in oprichting dient een bestuursplan in binnen 30
         dagen na de afdelingsvergadering waarop het bestuur is verkozen;
 
     1.  aan het partijbestuur bewezen hebben te kunnen voldoen aan de
-        zaken die in [artikel 5](#) en [7](#) van dit reglement zijn bepaald.
+        vereisten in het huishoudelijk reglement en de statuten van de partij.
 
 1.  Het partijbestuur besluit over de erkenning als volwaardige afdeling
     binnen een half jaar na het verlenen van de status ‘afdeling in
