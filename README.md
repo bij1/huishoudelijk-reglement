@@ -623,11 +623,14 @@
 
 ## Artikel 17. het Afdelingsbestuur
 
+1.  Het afdelingsbestuur is na de afdelingsvergadering het hoogste orgaan binnen de afdeling.
+    Zij is verantwoordelijk voor het dagelijks bestuur van de afdeling.
+
 1.  De afdeling gaat uitsluitend over beleid dat inhoudelijk en fysiek
     van toepassing is op zaken binnen de grenzen van het
     afdelingsgebied.
 
-1.  Het afdelingsbestuur heeft de volgende taken:
+1.  Het afdelingsbestuur heeft onder meer de volgende taken:
 
     1.  Het lokaal representeren van BIJ1 en het uitdragen van de
         politieke doelstellingen van de partij;
@@ -636,10 +639,9 @@
         zowel leden als andere geïnteresseerden;
 
     1.  Het afleggen van verantwoording over haar beleid en financiën
-        aan het partijbestuur en de leden van de afdeling. De
-        verantwoording aan het partijbestuur gebeurt via een
-        tweemaandelijkse afdelingsupdate. De eisen voor de update en het
-        plan worden door het partijbestuur opgesteld.
+        aan het partijbestuur en de leden van de afdeling.
+        Het partijbestuur bepaalt de vorm van- en de eisen
+        omtrent de verantwoording aan het partijbestuur.
 
     1.  In overleg met het landelijk bestuur, deelnemen aan verkiezingen
         die in het afdelingsgebied zijn uitgeschreven;
@@ -648,7 +650,9 @@
         de kandidatenlijst en het inwinnen van advies over het opstellen
         van het programma en de kandidatenlijst bij het partijbestuur;
 
-    1.  Het controleren van de activiteiten van de gemeenteraadsfractie;
+    1.  Het ondersteunen en controleren van de gemeenteraadsfractie
+        door regelmatige gesprekken op de hoogte te blijven
+        van de politieke activiteiten van de gemeenteraadsfractie.
 
     1.  Het uit haar midden verkiezen van een lid van de partijraad.
 
@@ -665,59 +669,59 @@
 
 1.  Leden van het afdelingsbestuur worden verkozen door de
     afdelingsvergadering.
+    Leden van het afdelingsbestuur worden verkozen,
+    geschorst en ontslagen door de afdelingsvergadering.
+    Afdelingsbestuurders worden gekozen voor een periode van ten hoogste twee jaar.
 
-1.  Een afdelingsbestuur wordt gekozen door de ledenvergadering.
-    Afdelingsbestuurders worden gekozen voor een periode van twee jaar.
+1.  Een afdelingsbestuur bestaat uit tenminste drie leden.
+    In geval een bestuur uit minder dan drie leden bestaat,
+    wordt zo snel mogelijk een afdelingsvergadering belegd.
 
-1.  Een afdelingsbestuur bestaat uit tenminste drie leden. In geval een
-    bestuur uit minder dan drie leden bestaat, wordt zo snel mogelijk
-    een afdelingsvergadering belegd.
-
-1.  Slechts zij die langer dan 6 maanden lid zijn van de vereniging
-    ofwel zij die aantoonbaar structureel actief zijn in de partij
+1.  Alle leden van de afdeling die langer dan 6 maanden lid zijn van &mdash;
+    of structureel actief zijn voor de partij,
     kunnen zich kandidaat stellen voor het afdelingsbestuur.
 
-1.  Alle leden die binnen het afdelingsgebied wonen, kunnen zich
-    kandidaat stellen voor het afdelingsbestuur.
+1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de afdelingsvergadering bepaald.
+    Het zittende danwel vertrekkende afdelingsbestuur heeft hierin een adviserende rol.
 
 1.  De functies van voorzitter, secretaris en penningmeester worden door
-    en uit het midden van het gekozen bestuur benoemd. De
-    functieverdeling en wijzigingen daarin worden aan de leden in het
-    afdelingsgebied gecommuniceerd.
+    en uit het midden van het gekozen bestuur benoemd,
+    tenzij de afdelingsvergadering ervoor kiest deze bestuursleden in functie te benoemen.
 
-1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een
-    meerderheid van de uitgebrachte stemmen op de afdelingsvergadering
-    hebben behaald.
-
-1.  In geval dat er zich meer kandidaten verkiesbaar hebben gesteld dan
-    er bestuursfuncties vacant zijn, geldt dat wie de meeste stemmen
+1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een meerderheid
+    van de uitgebrachte stemmen op de afdelingsvergadering hebben behaald.
+    In geval dat er meer kandidaten verkozen worden dan
+    er bestuurszetels vacant zijn, geldt dat wie de meeste stemmen
     heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
     dat meerdere kandidaten zich voor een specifieke bestuursfunctie
     verkiesbaar hebben gesteld.
 
-1.  Leden van het afdelingsbestuur worden geschorst of ontslagen door
-    het partijbestuur of door een meerderheid van de
-    afdelingsvergadering.
+1.  De samenstelling van het afdelingsbestuur, de functieverdeling
+    binnen het afdelingsbestuur en wijzigingen in deze samenstelling en
+    functieverdeling worden aan de leden van de afdeling, het partijbestuur,
+    het partijbureau en de partijraad onverwijld gecommuniceerd.
 
-1.  De sollicitatieprocedure voor bestuursleden loopt via een
+1.  Het einde van het lidmaatschap van de partij leidt altijd tot ontslag uit het afdelingsbestuur.
+
+1.  Leden van het afdelingsbestuur kunnen geschorst of ontslagen worden door het partijbestuur.
+
+1.  De kandideringsprocedure voor afdelingsbestuursleden loopt via een
     onafhankelijke kandidatencommissie, waarin geen mensen zitting
-    hebben die zich verkiesbaar stellen. Het partijbestuur legt de
-    verdere procedure omtrent verkiezing van bestuursleden vast in het
-    [Verkiezingsbeleid](#).
+    hebben die zich verkiesbaar stellen.
 
 1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de
     kandidatencommissie. De kandidatencommissie kan ervoor kiezen
     kandidaten niet voor te dragen. In beide gevallen dient de
     kandidatencommissie hun besluit te onderbouwen.
 
-1.  Verdere bepalingen omtrent de verkiezing van afdelingsbestuursleden
-    zijn beschreven in het [Verkiezingsbeleid](#) van de vereniging.
+1.  Verdere richtlijnen omtrent de verkiezing van afdelingsbestuursleden
+    kunnen worden beschreven in het [verkiezingsbeleid](#) van de partij.
 
 ## Artikel 19. Vergadering en Besluitvorming
 
-1.  Het afdelingsbestuur besluit met een absolute meerderheid van
-    stemmen. Voor een stemming moet een absolute meerderheid van de
-    bestuursleden een stem uitbrengen.
+1.  Het afdelingsbestuur besluit met een gewone meerderheid van
+    stemmen. Voor een stemming moet een gewone meerderheid van de
+    afdelingsbestuursleden een stem uitbrengen.
 
 1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
     leden van het afdelingsbestuur en gasten die schriftelijk namens ten
