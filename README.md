@@ -285,13 +285,11 @@
 
 ## Artikel 8. het partijbestuur
 
-1.  Het partijbestuur wordt verkozen door de algemene vergadering.
-    Bestuurders worden gekozen voor een periode van twee jaar.
+1.  Het partijbestuur is na de algemene vergadering en de partijraad
+    het hoogste orgaan van de partij.
 
-1.  Het partijbestuur bestaat uit tenminste drie leden. Er is geen
-    maximum grootte van een bestuur. In geval een bestuur uit minder dan
-    drie leden bestaat, wordt zo snel mogelijk een nieuwe vacature
-    uitgeschreven en een algemene vergadering belegd.
+1.  Het partijbestuur is verantwoordelijk voor het dagelijks bestuur
+    van de partij.
 
 1.  De partijleider zit aan bij de bestuursvergaderingen, maar heeft
     geen stemrecht. De partijleider heeft wel het recht om het
@@ -299,11 +297,9 @@
 
 1.  Het partijbestuur is belast met de taak om verantwoording af te
     leggen over haar beleid en haar financiën aan de algemene
-    vergadering;
+    vergadering en aan de partijraad;
 
-1.  Het partijbestuur is voorts verantwoordelijk voor het besturen van
-    de vereniging. Haar taken en verantwoordelijkheden zijn in ieder
-    geval:
+1.  De verdere taken en verantwoordelijkheden van het partijbestuur omvatten in ieder geval:
 
     1.  Het financieel beheer van de vereniging. Het bestuur is, als
         enige rechtspersoon in de vereniging, tevens verantwoordelijk
@@ -328,14 +324,9 @@
     1.  Het toezien op een veilige werk- en verblijfsomgeving binnen de
         partijgremia;
 
-    1.  Het beslissen over deelname op lokaal niveau, conform [artikel 19](#)
-        van dit reglement;
+    1.  Het beslissen over deelname op lokaal niveau, conform artikel 19 van dit reglement;
 
-    1.  Het adviseren over het programma en de kandidatenlijst voor
-        gemeenteraadsverkiezingen;
-
-    1.  Het voordragen van een beslissing over deelname aan verkiezingen
-        op landelijk, Europees en provinciaal niveau aan de partijraad;
+    1.  Het adviseren over het programma en de kandidatenlijst voor gemeenteraadsverkiezingen;
 
     1.  Het opstellen en waarborgen van vrijwilligersbeleid;
 
@@ -353,36 +344,42 @@
 ## Artikel 9. Benoeming, schorsing en ontslag
 
 1.  Leden van het partijbestuur worden benoemd, geschorst en ontslagen
-    door de algemene vergadering.
+    door de algemene vergadering voor een periode van ten hoogste 2 jaar.
 
-1.  Slechts zij die langer dan 6 maanden lid zijn van de vereniging
-    ofwel zij die aantoonbaar structureel actief zijn in de partij
+1.  Het partijbestuur bestaat uit tenminste drie leden.
+    In geval een bestuur uit minder dan drie leden bestaat,
+    wordt zo snel mogelijk een algemene vergadering belegd.
+
+1.  De samenstelling van het partijbestuur,
+    de functieverdeling binnen het partijbestuur en wijzigingen,
+    waaronder tijdelijke wijzigingen, in deze samenstelling
+    en functieverdeling worden aan de leden onverwijld gecommuniceerd.
+
+1.  Alle leden die niet geschorst zijn en langer dan 6 maanden lid zijn
+    van de vereniging ofwel aantoonbaar structureel actief zijn in de partij
     kunnen zich kandidaat stellen voor het partijbestuur.
 
-1.  De sollicitatieprocedure voor bestuursleden loopt via een
+1.  De kandideringsprocedure voor bestuursleden loopt via een
     onafhankelijke kandidatencommissie, waarin geen mensen zitting
     hebben die zich verkiesbaar stellen.
+    De kandidatencommissie kan ervoor kiezen kandidaten voor te dragen of niet voor te dragen.
+    In beide gevallen dient de kandidatencommissie hun besluit te onderbouwen.
 
-1.  Alle leden die niet geschorst zijn, kunnen zich kandidaat stellen
-    voor het partijbestuur.
-
-1.  Kandidaten voor het partijbestuur worden voorgedragen door de
-    kandidatencommissie. De kandidatencommissie kan ervoor kiezen
-    kandidaten niet voor te dragen. In beide gevallen dient de
-    kandidatencommissie hun besluit te onderbouwen.
+1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de algemene ledenvergadering bepaald.
+    Het zittende dan wel vertrekkende bestuur heeft hierin een adviserende rol.
 
 1.  Kandidaten voor het partijbestuur zijn gekozen wanneer zij een
     meerderheid van de uitgebrachte stemmen op de algemene vergadering
     hebben behaald.
 
-1.  In geval dat er zich meer kandidaten verkiesbaar hebben gesteld dan
-    er bestuursfuncties vacant zijn, geldt dat wie de meeste stemmen
+1.  In geval dat er meer kandidaten worden verkozen dan
+    er bestuurszetels voor verkiezing beschikbaar zijn, geldt dat wie de meeste stemmen
     heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
     dat meerdere kandidaten zich voor een specifieke bestuursfunctie
     verkiesbaar hebben gesteld.
 
-1.  Verdere bepalingen omtrent de benoeming van het partijbestuur zijn
-    beschreven in het [Verkiezingsbeleid](#) van de vereniging.
+1.  Verdere richtlijnen omtrent de verkiezing van het partijbestuur kunnen worden
+    beschreven in het [verkiezingsbeleid](#) van de partij.
 
 1.  Bij kandidering dient een kandidaat-bestuurslid een
     integriteitsverklaring te overleggen aan het partijbureau.
@@ -887,6 +884,7 @@
     zijn in het afdelingsgebied een kandidatenlijst en programma voor.
     De afdelingsvergadering gaat over de vaststelling van de
     kandidatenlijst en het programma.
+    Het landelijk bestuur adviseert hierover.
 
 1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
     kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
