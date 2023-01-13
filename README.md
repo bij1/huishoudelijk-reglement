@@ -1,6 +1,6 @@
-# LIDMAATSCHAP EN CONTRIBUTIE
+# Lidmaatschap en Contributie
 
-## Artikel 1. lidmaatschap
+## Artikel 1. Lidmaatschap
 
 1.  Het bestuur beslist in eerste instantie over het toelaten van leden.
 
@@ -21,7 +21,7 @@
     van betaling zonder geldige reden kan het partijbestuur besluiten
     tot opzegging van het lidmaatschap.
 
-## Artikel 2. contributie
+## Artikel 2. Contributie
 
 1.  De hoogte van de reguliere door de leden te betalen contributie wordt
     door de algemene vergadering vastgesteld.
@@ -37,9 +37,9 @@
 1.  De vereniging hanteert een sociaal tarief voor leden die de reguliere
     contributie om financiële redenen niet kunnen betalen.
 
-# DE ALGEMENE VERGADERING
+# De Algemene Vergadering
 
-## Artikel 3. de algemene vergadering
+## Artikel 3. De Algemene Vergadering
 
 1.  De algemene vergadering is het hoogste orgaan van de partij.
     Zij bespreekt en besluit fundamentele politieke en organisatorische kwesties.
@@ -79,7 +79,7 @@
     1.  Het besluiten over wijzigingen in de [statuten](#) en het huishoudelijk
         reglement;
 
-## Artikel 4. besluitvorming
+## Artikel 4. Besluitvorming
 
 1.  Stemmingen worden mondeling gehouden, tenzij een lid een
     schriftelijke stemming aanvraagt of de voorzitter een schriftelijke
@@ -120,9 +120,9 @@
 
 1.  Een gemachtigd lid mag namens maximaal twee andere leden een stem uitbrengen.
 
-# DE PARTIJRAAD
+# De Partijraad
 
-## Artikel 5. de partijraad
+## Artikel 6. De Partijraad
 
 1.  De partijraad is na de algemene ledenvergadering
     het hoogste orgaan van de partij.
@@ -156,7 +156,7 @@
     1.  Verslagen van partijraadsvergaderingen worden op de [website](#) gepubliceerd.
         De notulen zijn bij het partijbureau opvraagbaar voor leden.
 
-## Artikel 6. benoeming, schorsing en ontslag
+## Artikel 7. Benoeming, schorsing en ontslag
 
 1.  Leden van het partijbestuur worden benoemd,
     geschorst en ontslagen door de algemene vergadering
@@ -206,7 +206,7 @@
 1.  Verdere richtlijnen omtrent de verkiezing van de partijraad kunnen worden
     vastgelegd in het [verkiezingsbeleid](#).
 
-## Artikel 7. besluitvorming
+## Artikel 8. De Partijraadsvergadering.
 
 1.  De partijraad komt ten minste vier maal per jaar bijeen,
     en voorts zo vaak de partijraad of het partijbestuur dit wenselijk acht.
@@ -257,9 +257,9 @@
     van een of meerdere leden, mag het partijbestuur meestemmen met één
     stem.
 
-# HET PARTIJBESTUUR
+# Commissies, gremia en werkgroepen
 
-## Artikel 8. het partijbestuur
+## Artikel 9. Het Partijbestuur
 
 1.  Het partijbestuur is na de algemene vergadering en de partijraad
     het hoogste orgaan van de partij.
@@ -317,7 +317,7 @@
     gemaakt in functie of een door de algemene vergadering vastgesteld
     bedrag voor de onkostenvergoeding.
 
-## Artikel 9. Benoeming, schorsing en ontslag
+## Artikel 10. Benoeming, schorsing en ontslag
 
 1.  Leden van het partijbestuur worden benoemd, geschorst en ontslagen
     door de algemene vergadering voor een periode van ten hoogste 2 jaar.
@@ -377,9 +377,9 @@
 1.  Opzeggen van het lidmaatschap van de partij leidt altijd tot ontslag
     uit het partijbestuur.
 
-# COMMISSIES, GREMIA EN WERKGROEPEN
+# Commissies, gremia en werkgroepen
 
-## Artikel 10. Commissies, gremia en werkgroepen
+## Artikel 11. Commissies, gremia en werkgroepen
 
 1.  Het partijbestuur, de partijraad en de afdelingsbesturen zijn bevoegd om onder hun
     verantwoordelijkheid commissies, gremia en werkgroepen in te stellen.
@@ -408,9 +408,9 @@
 1.  De zittingstermijn en besluitvormingsmodellen van de commissie,
     het gremium of de werkgroep worden in de opdracht vastgesteld.
 
-# HET PARTIJBUREAU
+# Het Partijbureau
 
-## Artikel 11. het partijbureau
+## Artikel 12. Het Partijbureau
 
 1.  Het partijbureau is een uitvoerend orgaan van de partij.
     Zij valt onder de verantwoordelijkheid van &mdash; en handelt in naam van het partijbestuur.
@@ -436,7 +436,7 @@
     1.  het ondersteunen van de partijraad in alle administratieve en
         overige ondersteunende werkzaamheden.
 
-## Artikel 12. Benoeming, schorsing en ontslag
+## Artikel 13. Benoeming, schorsing en ontslag
 
 1.  De leden van het partijbureau worden benoemd, geschorst en ontslagen
     door het partijbestuur.
@@ -452,9 +452,9 @@
 1.  Opzeggen van het lidmaatschap van de partij leidt altijd tot ontslag
     uit het partijbureau.
 
-# DE AFDELING
+# De Afdeling
 
-## Artikel 13. Oprichting en begrenzing van een Afdeling
+## Artikel 14. Oprichting en begrenzing van een Afdeling
 
 1.  Leden uit eenzelfde gebied kunnen zich verenigen om schriftelijk de
     status ‘afdeling in oprichting’ aan te vragen bij het partijbestuur.
@@ -492,7 +492,7 @@
 
 1.  Het partijbestuur stelt de fysieke grenzen van een afdeling vast.
 
-## Artikel 14. Opheffing van een afdeling
+## Artikel 15. Opheffing van een Afdeling
 
 1.  Het partijbestuur beslist over de opheffing van een afdeling indien
     deze niet meer aan de in dit reglement en/of [statuten](#) gestelde taken
@@ -511,9 +511,9 @@
     definitief besluit nemen. De leden van een afdeling zullen hierover
     schriftelijk worden geïnformeerd.
 
-# DE AFDELINGSVERGADERING
+# De Afdelingsvergadering
 
-## Artikel 15. de Afdelingsvergadering
+## Artikel 16. De Afdelingsvergadering
 
 1.  De afdelingsvergadering is het hoogste orgaan binnen de afdeling.
 
@@ -568,7 +568,7 @@
     bereikte coalitieakkoord en kennis over de door het afdelingsbestuur
     en gemeenteraadsfractie voorgestelde kandidaat-wethouder(s).
 
-## Artikel 16. Besluitvorming
+## Artikel 17. Besluitvorming
 
 1.  Stemmingen worden mondeling gehouden, tenzij een lid een
     schriftelijke stemming aanvraagt of de voorzitter een schriftelijke
@@ -592,9 +592,9 @@
     het gemachtigde lid bij zich moet hebben op de vergadering. Een lid
     mag namens maximaal twee andere leden een stem uitbrengen.
 
-# HET AFDELINGSBESTUUR
+# Het Afdelingsbestuur
 
-## Artikel 17. het Afdelingsbestuur
+## Artikel 18. Het Afdelingsbestuur
 
 1.  Het afdelingsbestuur is na de afdelingsvergadering het hoogste orgaan binnen de afdeling.
     Zij is verantwoordelijk voor het dagelijks bestuur van de afdeling.
@@ -636,7 +636,7 @@
     1.  Het instellen en ontbinden van lokale commissies en lokale
         werkgroepen, zoals een kandidatencommissie.
 
-## Artikel 18. Benoeming, schorsing en ontslag
+## Artikel 19. Benoeming, schorsing en ontslag
 
 1.  Leden van het afdelingsbestuur worden verkozen door de
     afdelingsvergadering.
@@ -688,7 +688,7 @@
 1.  Verdere richtlijnen omtrent de verkiezing van afdelingsbestuursleden
     kunnen worden beschreven in het [verkiezingsbeleid](#) van de partij.
 
-## Artikel 19. Vergadering en Besluitvorming
+## Artikel 20. Vergadering en Besluitvorming
 
 1.  Het afdelingsbestuur besluit met een gewone meerderheid van
     stemmen. Voor een stemming moet een gewone meerderheid van de
@@ -702,7 +702,7 @@
     ondersteunen hebben geen stemrecht in bestuursvergaderingen, noch
     kunnen zij het bestuur vertegenwoordigen.
 
-# DEELNAME AAN VERKIEZINGEN
+# Deelname aan verkiezingen
 
 ## Artikel 21. Verkiezingen algemeen
 
@@ -779,8 +779,8 @@
     desbetreffende provincie, een kandidatenlijst en programma voor op
     een vergadering die wordt belegd met de leden die woonachtig zijn in
     de provincie. Deze provinciale vergadering wordt voorgezeten door
-    het partijbestuur en beslist over de vaststelling van de
-    kandidatenlijst en het programma.
+    het partijbestuur en beslist over de vaststelling van
+    de kandidatenlijst en het programma.
 
 1.  Ieder lid dat woonachtig is in de desbetreffende provincie kan zich
     aanmelden om op de kandidatenlijst te staan, vóór de datum en op de
@@ -858,7 +858,6 @@
     zijn in het afdelingsgebied een kandidatenlijst en programma voor.
     De afdelingsvergadering gaat over de vaststelling van de
     kandidatenlijst en het programma.
-    Het landelijk bestuur adviseert hierover.
 
 1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
     kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
@@ -902,9 +901,9 @@ de algemene vergadering.
 
 1.  De uit de afdrachtregeling verkregen middelen komen ten goede aan partij.
 
-# REPRESENTATIE
+# Representatie
 
-## Artikel 26. Representatie
+## Artikel 29. Representatie
 
 1.  In lijn met de politieke doelen van de partij om actieve deelname en
     vertegenwoordiging van mensen uit gemarginaliseerde posities te
@@ -917,15 +916,15 @@ de algemene vergadering.
 1.  Het beleid omtrent participatie focust daarnaast op interne scholing
     en (sociale) veiligheid.
 
-# VEILIGHEID EN GESCHILLEN
+# Veiligheid en geschillen
 
-## Artikel 27. Privacy en digitale veiligheid
+## Artikel 30. Privacy en digitale veiligheid
 
 Alle zaken omtrent privacy en digitale veiligheid worden vastgelegd in
 het [AVG-beleid](#) van de vereniging, conform geldende wetgeving. Dit beleid
 wordt door het partijbestuur vastgelegd.
 
-## Artikel 28. Veiligheid en gedragscode
+## Artikel 31. Veiligheid en gedragscode
 
 1.  Het partijbestuur stelt een [gedragscode](#) in die van toepassing is op
     alle leden van de vereniging en waarop ieder lid kan worden
@@ -948,7 +947,7 @@ wordt door het partijbestuur vastgelegd.
 1.  De gedragscode en Safer Space-richtlijnen zijn te allen tijde op de
     [website van de partij](#) beschikbaar.
 
-## Artikel 39. Geschillen
+## Artikel 32. Geschillen
 
 1.  Het partijbestuur stelt een geschillencommissie in met als taak op
     een onafhankelijke, betrouwbare en objectieve wijze geschillen te
@@ -964,9 +963,9 @@ wordt door het partijbestuur vastgelegd.
     [Reglement Geschillencommissie](#). Het Reglement Geschillencommissie
     wordt vastgesteld door het partijbestuur.
 
-# DUBBELLIDMAATSCHAP
+# Dubbellidmaatschap
 
-## Artikel 30. Dubbellidmaatschap
+## Artikel 33. Dubbellidmaatschap
 
 1.  Dubbellidmaatschap van meerdere politieke partijen is niet
     toegestaan voor leden van afdelingsbesturen, de partijraad, het
@@ -985,9 +984,9 @@ wordt door het partijbestuur vastgelegd.
     worden gevergd het lidmaatschap te laten voortduren, zoals bepaald
     in [artikel 7 van de statuten](#).
 
-# BEROEPSPROCEDURE
+# Beroepsprocedure
 
-## Artikel 31. Beroepen
+## Artikel 34. Beroepen
 
 1.  (Kandidaat-)leden van de vereniging kunnen in beroep gaan tegen:
 
@@ -1032,12 +1031,12 @@ wordt door het partijbestuur vastgelegd.
 
 # Slotbepalingen
 
-## Artikel 32. Inzien door leden
+## Artikel 35. Inzien door leden
 
 1.  De [statuten](#) en het huishoudelijk reglement zijn te allen tijde op de [website van de partij](#)
     beschikbaar.
 
-## Artikel 33. Besluitvorming
+## Artikel 36. Besluitvorming
 
 1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
     worden bij stemmingen blanco stemmen en ongeldig uitgebrachte stemmen
@@ -1047,7 +1046,7 @@ wordt door het partijbestuur vastgelegd.
 1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
     worden besluiten genomen met een gewone meerderheid van stemmen.
 
-## Artikel 33. Aanpassing en afwijking van het reglement
+## Artikel 37. Aanpassing en afwijking van het reglement
 
 1.  De partijraad en de algemene vergadering hebben het recht het huishoudelijk reglement te wijzigen.
     Geen andere organen dan de partijraad en de algemene vergadering hebben dit recht.
