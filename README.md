@@ -125,8 +125,11 @@
 
 ## Artikel 5. de partijraad
 
-1.  De partijraad vertegenwoordigt de stem van de leden tussen de algemene
-    vergaderingen in.
+1.  De partijraad is na de algemene ledenvergadering
+    het hoogste orgaan van de partij.
+
+1.  De partijraad vertegenwoordigt de leden tussen samenkomsten
+    van de algemene vergadering.
 
 1.  De leden van de partijraad worden door de algemene vergadering
     benoemd en bestaan uit twee geledingen.
@@ -139,29 +142,20 @@
         afdelingsbestuur kunnen zichzelf voordragen als kandidaat-lid
         van de partijraad.
 
-1.  De kandidaatstelling voor de partijraad geschiedt via het
-    partijbureau. Verdere bepalingen hieromtrent staan beschreven in
-    [artikel 6](#).
-
-1.  De partijraad heeft geen externe representatieve functie namens de
-    partij.
-
 1.  De partijraad kan uit zijn midden een of meer commissies benoemen
     die belast worden met een speciale taak. De werkwijze van de
     commissies wordt vastgesteld door de partijraad.
 
-1.  De partijraad draagt zorg voor:
+1.  De partijraad draagt onder meer zorg voor:
 
-    1.  het adviseren van het partijbestuur en de landelijke,
-        Provinciale en Europese fractie(s) op grote besluiten en
+    1.  het adviseren van het partijbestuur en de fractie(s) op grote besluiten en
         vraagstukken;
 
     1.  het agenderen van belangrijke onderwerpen bij het partijbestuur
-        of de landelijke fractie(s);
+        en de fractie(s);
 
     1.  het controleren van de algemene politieke lijn van de vereniging
-        en het adviseren van het bestuur en de landelijke fractie(s) ter
-        zake;
+        en het adviseren van het bestuur en de fractie(s) ter zake;
 
     1.  het beslissen over deelname aan Provinciale Staten-, Europese,
         Eerste Kamer- en Tweede Kamerverkiezingen;
@@ -171,24 +165,26 @@
     1.  het verbreden van de partijdemocratie door het actief betrekken
         van de leden bij het uitvoeren van bovenstaande taken.
 
-1.  Verslagen van partijraadsvergaderingen worden op de [website](#)
-    gepubliceerd. De notulen zijn bij het partijbureau opvraagbaar voor
-    leden.
+    1.  Verslagen van partijraadsvergaderingen worden op de [website](#) gepubliceerd.
+        De notulen zijn bij het partijbureau opvraagbaar voor leden.
 
 ## Artikel 6. benoeming, schorsing en ontslag
 
-1.  De verkiezingen voor de benoeming van leden van de partijraad worden
-    georganiseerd door het partijbureau.
+1.  Leden van het partijbestuur worden benoemd,
+    geschorst en ontslagen door de algemene vergadering
+    voor een periode van ten hoogste 2 jaar.
 
 1.  De leden van de partijraad worden verkozen door de algemene
-    vergadering voor een termijn van twee jaar. Een lid kan zich
-    maximaal twee opeenvolgende termijnen verkiesbaar stellen.
+    vergadering voor een termijn van ten hoogste twee jaar,
+    met de mogelijkheid tot herverkiezing.
 
-1.  Alleen zij die lid zijn van de vereniging kunnen lid worden van de
+1.  Alleen zij die lid zijn van de partij kunnen lid worden van de
     partijraad.
 
-1.  Leden van het partijbestuur en verkozen leden van fracties kunnen
+1.  Leden van het partijbestuur en volksvertegenwoordigers kunnen
     niet lid zijn van de partijraad.
+
+1.  Het aantal partijraadszetels wordt door de algemene ledenvergadering bepaald.
 
 1.  De eisen voor kandidaatstelling zijn:
 
@@ -201,6 +197,9 @@
 
     1.  een individu is aantoonbaar langer dan zes maanden betrokken bij
         de vereniging voorafgaand aan de datum van kandidaatstelling.
+
+1.  Ieder lid dat voldoet aan deze eisen
+    kan zich kandidaat stellen voor verkiezing tot de partijraad.
 
 1.  Het partijbureau kan kandidaten uitsluiten voor verkiezing op grond
     dat:
@@ -216,53 +215,52 @@
     persoon. Beroep tegen het besluit is mogelijk via de
     beroepsprocedure.
 
+1.  Verdere richtlijnen omtrent de verkiezing van de partijraad kunnen worden
+    vastgelegd in het [verkiezingsbeleid](#).
+
 1.  Leden van de partijraad worden ontslagen en geschorst door de
     algemene vergadering, dan wel uit hun functie ontheven door
     uittreding bij het afdelingsbestuur in geval dat een lid is
     voorgedragen op basis van [artikel 5, lid 3, sub a](#).
 
-1.  Verdere bepalingen omtrent de benoeming van de partijraad worden
-    vastgelegd in het [Verkiezingsbeleid](#).
-
 ## Artikel 7. besluitvorming
 
-1.  De partijraad komt ten minste vier maal per jaar bijeen.
+1.  De partijraad komt ten minste vier maal per jaar bijeen,
+    en voorts zo vaak de partijraad of het partijbestuur dit wenselijk acht.
 
-1.  De partijraad wordt bijeengeroepen door het partijbestuur, met
+1.  De partijraad kan door het partijbestuur bijeengeroepen worden, met
     inachtneming van een termijn van zeven dagen.
 
-1.  De partijraad kan ook door de eigen leden bijeen worden geroepen.
-    Dit kan via schriftelijk verzoek aan het partijbestuur dat wordt
-    gesteund door minstens 20% van de leden van de partijraad.
+1.  De partijraad kan door de eigen leden bijeen worden geroepen.
+    Dit geschiedt middels een schriftelijke bijeenroeping die wordt
+    ondersteund door ten minste 20% van de leden van de partijraad.
 
-1.  Na ontvangst van een verzoek als in [lid 3](#) bedoeld, is het
-    partijbestuur verplicht tot bijeenroeping van een
-    partijraadsvergadering die binnen een maand na voormelde ontvangst
-    moet plaatsvinden. Indien aan het verzoek tot bijeenroeping binnen
-    veertien dagen nadat dit door het partijbestuur werd ontvangen geen
-    gevolg wordt gegeven, zullen de verzoekers zelf tot die
-    bijeenroeping kunnen overgaan op de wijze waarop het partijbestuur
-    de partijraadsvergaderingen bijeenroept.
-
-1.  Van het in de partijraadsvergadering verhandelde wordt door het
-    partijbureau verslag opgemaakt.
+1.  Het partijbestuur faciliteert, eventueel via het partijbureau,
+    samenkomsten van de partijraad.
+    Een toereikend deel van de landelijke partijkas wordt hiervoor toegekend.
 
 1.  De partijraad vergadert onder leiding van een eigen voorzitter. Deze
-    voorzitter wordt niet in functie gekozen, maar ter vergadering uit
-    haar midden gekozen om de vergadering te leiden.
+    voorzitter wordt niet in functie gekozen, maar ter vergadering
+    door de vergadering uit haar midden gekozen.
 
-1.  De agenda van de vergadering van de partijraad wordt door het
-    partijbureau opgemaakt. Voorafgaand aan de vergadering en terstond
-    ter vergadering kunnen leden van de partijraad en het partijbestuur
-    andere agendapunten toevoegen.
+1.  De voorzitter van de partijraadsvergadering wordt bijgestaan door een of meerdere secretarissen.
+    Het partijbureau draagt zorg voor de beschikbaarheid van een of meerdere secretarissen.
 
-1.  Zaken met betrekking tot de vergaderorde worden door de partijraad
-    vastgelegd in een [Reglement van Orde](#).
+1.  Een voorstel voor de agenda voor de vergadering van de partijraad kan
+    door het partijbureau in samenspraak met de partijraad
+    en/of het partijbestuur worden opgemaakt.
+
+1.  De partijraadsvergadering stelt ter vergadering haar vergaderagenda vast.
+
+1.  Zaken met betrekking tot de vergaderorde van de partijraadsvergadering
+    worden door de partijraad vastgelegd in een [Reglement van Orde](#).
 
 1.  Leden van de partijraad stemmen mondeling, tenzij een lid van de
     partijraad voorstelt schriftelijk te stemmen. De stemmen worden
-    geteld door de voorzitter van de vergadering en de partijsecretaris.
+    geteld door de voorzitter en de secretaris van de vergadering.
     De partijraad stemt hoofdelijk.
+    Besluitvorming bij acclamatie is mogelijk,
+    tenzij een lid van de partijraad aangeeft daar bezwaar tegen te hebben.
 
 1.  Een in de partijraadsvergadering door de voorzitter uitgesproken
     oordeel omtrent de uitslag van een stemming is beslissend. Indien
