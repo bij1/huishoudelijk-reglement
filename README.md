@@ -727,53 +727,93 @@
 
 # DEELNAME AAN VERKIEZINGEN
 
-## Artikel 19. Deelname aan gemeenteraadsverkiezingen
+## Artikel 19. Deelname aan Europese verkiezingen
 
-1.  Het afdelingsbestuur vraagt allereerst aan het partijbestuur
-    toestemming om onder de naam van BIJ1 te mogen deelnemen aan de
-    gemeenteraadsverkiezingen. Het partijbestuur beoordeelt deze
-    aanvraag en kan voorwaarden stellen aan de afdeling voor deelname
-    aan verkiezingen. Het partijbestuur zal beoordelen aan de hand van
-    de volgende zaken:
+1.  Op voordracht van het partijbestuur beslist de partijraad over
+    deelname aan Europese verkiezingen.
 
-    1.  De mate waarin leden en geïnteresseerden betrokken en
-        geactiveerd worden bij de activiteiten van de afdeling;
+1.  Het partijbestuur stelt een kandidatencommissie en een
+    programmacommissie in om namens het partijbestuur een
+    kandidatenlijst en programma op te stellen
 
-    1.  De status van de afdeling. Alleen een volwaardige afdeling kan
-        toestemming krijgen van het partijbestuur om onder de naam BIJ1
-        deel te nemen aan verkiezingen;
+1.  Het partijbestuur stelt aan de leden van de afdeling een
+    kandidatenlijst en programma voor. De algemene vergadering gaat over
+    de vaststelling van de kandidatenlijst en het programma.
 
-    1.  Strategische overwegingen.
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt
 
-1.  Het afdelingsbestuur stelt vervolgens aan de leden die woonachtig
-    zijn in het afdelingsgebied een kandidatenlijst en programma voor.
-    De afdelingsvergadering gaat over de vaststelling van de
-    kandidatenlijst en het programma.
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
 
-1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
-    kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
-    en op de wijze die het afdelingsbestuur daarvoor vaststelt.
-
-1.  Als een lid dat zich kandidaat stelt, niet door het afdelingsbestuur
-    op de kandidatenlijst wordt geplaatst, kan dit lid beroep
-    aantekenen.
-
-1.  Het afdelingsbestuur ziet erop toe dat iedere kandidaat op de
+1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
     kandidatenlijst zich schriftelijk conformeert aan de
     afdrachtregeling.
 
-1.  Wanneer kandidaten in de gemeenteraad worden verkozen, dienen zij
-    over hun activiteiten verantwoording af te leggen aan het
-    afdelingsbestuur en de afdelingsvergadering.
+1.  Een kandidaat die verkozen wordt in het Europees Parlement kan niet
+    daarnaast lid zijn van het partijbestuur of de partijraad.
 
-1.  Een kandidaat die verkozen wordt in de gemeenteraad kan niet
-    daarnaast lid zijn van het betreffende afdelingsbestuur of van de
-    partijraad.
+1.  Verdere richtlijnen omtrent Europese verkiezingen zijn vastgelegd in
+    het [Verkiezingsbeleid](#) van de vereniging.
 
-1.  Verdere richtlijnen omtrent gemeenteraadsverkiezingen zijn
-    vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
+## Artikel 20. Deelname aan Tweede Kamerverkiezingen
 
-## Artikel 20. Deelname aan Provinciale Statenverkiezingen
+1.  Op voordracht van het partijbestuur beslist de partijraad over
+    deelname aan Tweede Kamerverkiezingen.
+
+1.  Het partijbestuur stelt een kandidatencommissie en een
+    programmacommissie in om namens het partijbestuur een
+    kandidatenlijst en programma op te stellen.
+
+1.  Het partijbestuur stelt aan de leden van de afdeling een
+    kandidatenlijst en programma voor. De algemene vergadering gaat over
+    de vaststelling van de kandidatenlijst en het programma.
+
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
+
+1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
+    kandidatenlijst zich schriftelijk conformeert aan de
+    afdrachtregeling.
+
+1.  Een kandidaat die verkozen wordt in de Tweede Kamer kan niet
+    daarnaast lid zijn van het partijbestuur of de partijraad.
+
+1.  Verdere richtlijnen omtrent Tweede Kamerverkiezingen zijn vastgelegd
+    in het [Verkiezingsbeleid](#) van de vereniging.
+
+## Artikel 21. Deelname aan Eerste Kamerverkiezingen
+
+1.  Op voordracht van het partijbestuur beslist de partijraad over
+    deelname aan Eerste Kamerverkiezingen.
+
+1.  Het partijbestuur stelt een kandidatencommissie in om namens het
+    partijbestuur een kandidatenlijst op te stellen.
+
+1.  Het partijbestuur stelt aan de leden van de afdeling een
+    kandidatenlijst voor. De algemene vergadering gaat over de
+    vaststelling van de kandidatenlijst.
+
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
+
+1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
+    kandidatenlijst zich schriftelijk conformeert aan de
+    afdrachtregeling.
+
+1.  Een kandidaat die verkozen wordt in de Eerste Kamer kan niet
+    daarnaast lid zijn van het partijbestuur of de partijraad.
+
+1.  Verdere richtlijnen omtrent Eerste Kamerverkiezingen zijn vastgelegd
+    in het [Verkiezingsbeleid](#) van de vereniging.
+
+## Artikel 22. Deelname aan Provinciale Statenverkiezingen
 
 1.  Op voordracht van het partijbestuur beslist de partijraad over
     deelname aan Provinciale Statenverkiezingen.
@@ -807,93 +847,7 @@
 1.  Verdere richtlijnen omtrent Provinciale Statenverkiezingen zijn
     vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
 
-## Artikel 21. Deelname aan Europese verkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Europese verkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie en een
-    programmacommissie in om namens het partijbestuur een
-    kandidatenlijst en programma op te stellen
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst en programma voor. De algemene vergadering gaat over
-    de vaststelling van de kandidatenlijst en het programma.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in het Europees Parlement kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Europese verkiezingen zijn vastgelegd in
-    het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 22. Deelname aan Eerste Kamerverkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Eerste Kamerverkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie in om namens het
-    partijbestuur een kandidatenlijst op te stellen.
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst voor. De algemene vergadering gaat over de
-    vaststelling van de kandidatenlijst.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in de Eerste Kamer kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Eerste Kamerverkiezingen zijn vastgelegd
-    in het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 23. Deelname aan Tweede Kamerverkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Tweede Kamerverkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie en een
-    programmacommissie in om namens het partijbestuur een
-    kandidatenlijst en programma op te stellen.
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst en programma voor. De algemene vergadering gaat over
-    de vaststelling van de kandidatenlijst en het programma.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in de Tweede Kamer kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Tweede Kamerverkiezingen zijn vastgelegd
-    in het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 24. Deelname aan Waterschapsverkiezingen
+## Artikel 23. Deelname aan Waterschapsverkiezingen
 
 1.  Afdelingen gevestigd binnen een of meer waterschappen kunnen aan het
     partijbestuur vragen om onder de naam van BIJ1 mee te doen aan
@@ -946,6 +900,52 @@
     de partijraad.
 
 1.  Verdere richtlijnen omtrent waterschapsverkiezingen kunnen worden
+    vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
+
+## Artikel 24. Deelname aan gemeenteraadsverkiezingen
+
+1.  Het afdelingsbestuur vraagt allereerst aan het partijbestuur
+    toestemming om onder de naam van BIJ1 te mogen deelnemen aan de
+    gemeenteraadsverkiezingen. Het partijbestuur beoordeelt deze
+    aanvraag en kan voorwaarden stellen aan de afdeling voor deelname
+    aan verkiezingen. Het partijbestuur zal beoordelen aan de hand van
+    de volgende zaken:
+
+    1.  De mate waarin leden en geïnteresseerden betrokken en
+        geactiveerd worden bij de activiteiten van de afdeling;
+
+    1.  De status van de afdeling. Alleen een volwaardige afdeling kan
+        toestemming krijgen van het partijbestuur om onder de naam BIJ1
+        deel te nemen aan verkiezingen;
+
+    1.  Strategische overwegingen.
+
+1.  Het afdelingsbestuur stelt vervolgens aan de leden die woonachtig
+    zijn in het afdelingsgebied een kandidatenlijst en programma voor.
+    De afdelingsvergadering gaat over de vaststelling van de
+    kandidatenlijst en het programma.
+
+1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
+    kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
+    en op de wijze die het afdelingsbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het afdelingsbestuur
+    op de kandidatenlijst wordt geplaatst, kan dit lid beroep
+    aantekenen.
+
+1.  Het afdelingsbestuur ziet erop toe dat iedere kandidaat op de
+    kandidatenlijst zich schriftelijk conformeert aan de
+    afdrachtregeling.
+
+1.  Wanneer kandidaten in de gemeenteraad worden verkozen, dienen zij
+    over hun activiteiten verantwoording af te leggen aan het
+    afdelingsbestuur en de afdelingsvergadering.
+
+1.  Een kandidaat die verkozen wordt in de gemeenteraad kan niet
+    daarnaast lid zijn van het betreffende afdelingsbestuur of van de
+    partijraad.
+
+1.  Verdere richtlijnen omtrent gemeenteraadsverkiezingen zijn
     vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
 
 ## Artikel 25. Afdrachtregeling
