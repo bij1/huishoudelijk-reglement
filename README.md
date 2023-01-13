@@ -623,30 +623,6 @@
 
 ## Artikel 17. het Afdelingsbestuur
 
-1.  Een afdelingsbestuur wordt gekozen door de ledenvergadering.
-    Afdelingsbestuurders worden gekozen voor een periode van twee jaar.
-
-1.  Een afdelingsbestuur bestaat uit tenminste drie leden. In geval een
-    bestuur uit minder dan drie leden bestaat, wordt zo snel mogelijk
-    een afdelingsvergadering belegd.
-
-1.  De functies van voorzitter, secretaris en penningmeester worden door
-    en uit het midden van het gekozen bestuur benoemd. De
-    functieverdeling en wijzigingen daarin worden aan de leden in het
-    afdelingsgebied gecommuniceerd.
-
-1.  De partij kent geen aspirant-bestuursleden en mensen die het bestuur
-    ondersteunen hebben geen stemrecht in bestuursvergaderingen, noch
-    kunnen zij het bestuur vertegenwoordigen.
-
-1.  Het afdelingsbestuur besluit met een absolute meerderheid van
-    stemmen. Voor een stemming moet een absolute meerderheid van de
-    bestuursleden een stem uitbrengen.
-
-1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
-    leden van het afdelingsbestuur en gasten die schriftelijk namens ten
-    minste twee leden van het afdelingsbestuur zijn uitgenodigd.
-
 1.  De afdeling gaat uitsluitend over beleid dat inhoudelijk en fysiek
     van toepassing is op zaken binnen de grenzen van het
     afdelingsgebied.
@@ -690,23 +666,24 @@
 1.  Leden van het afdelingsbestuur worden verkozen door de
     afdelingsvergadering.
 
+1.  Een afdelingsbestuur wordt gekozen door de ledenvergadering.
+    Afdelingsbestuurders worden gekozen voor een periode van twee jaar.
+
+1.  Een afdelingsbestuur bestaat uit tenminste drie leden. In geval een
+    bestuur uit minder dan drie leden bestaat, wordt zo snel mogelijk
+    een afdelingsvergadering belegd.
+
 1.  Slechts zij die langer dan 6 maanden lid zijn van de vereniging
     ofwel zij die aantoonbaar structureel actief zijn in de partij
     kunnen zich kandidaat stellen voor het afdelingsbestuur.
 
-1.  De sollicitatieprocedure voor bestuursleden loopt via een
-    onafhankelijke kandidatencommissie, waarin geen mensen zitting
-    hebben die zich verkiesbaar stellen. Het partijbestuur legt de
-    verdere procedure omtrent verkiezing van bestuursleden vast in het
-    [Verkiezingsbeleid](#).
-
 1.  Alle leden die binnen het afdelingsgebied wonen, kunnen zich
     kandidaat stellen voor het afdelingsbestuur.
 
-1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de
-    kandidatencommissie. De kandidatencommissie kan ervoor kiezen
-    kandidaten niet voor te dragen. In beide gevallen dient de
-    kandidatencommissie hun besluit te onderbouwen.
+1.  De functies van voorzitter, secretaris en penningmeester worden door
+    en uit het midden van het gekozen bestuur benoemd. De
+    functieverdeling en wijzigingen daarin worden aan de leden in het
+    afdelingsgebied gecommuniceerd.
 
 1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een
     meerderheid van de uitgebrachte stemmen op de afdelingsvergadering
@@ -722,8 +699,33 @@
     het partijbestuur of door een meerderheid van de
     afdelingsvergadering.
 
+1.  De sollicitatieprocedure voor bestuursleden loopt via een
+    onafhankelijke kandidatencommissie, waarin geen mensen zitting
+    hebben die zich verkiesbaar stellen. Het partijbestuur legt de
+    verdere procedure omtrent verkiezing van bestuursleden vast in het
+    [Verkiezingsbeleid](#).
+
+1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de
+    kandidatencommissie. De kandidatencommissie kan ervoor kiezen
+    kandidaten niet voor te dragen. In beide gevallen dient de
+    kandidatencommissie hun besluit te onderbouwen.
+
 1.  Verdere bepalingen omtrent de verkiezing van afdelingsbestuursleden
     zijn beschreven in het [Verkiezingsbeleid](#) van de vereniging.
+
+## Artikel 19. Vergadering en Besluitvorming
+
+1.  Het afdelingsbestuur besluit met een absolute meerderheid van
+    stemmen. Voor een stemming moet een absolute meerderheid van de
+    bestuursleden een stem uitbrengen.
+
+1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
+    leden van het afdelingsbestuur en gasten die schriftelijk namens ten
+    minste twee leden van het afdelingsbestuur zijn uitgenodigd.
+
+1.  De partij kent geen aspirant-bestuursleden en mensen die het bestuur
+    ondersteunen hebben geen stemrecht in bestuursvergaderingen, noch
+    kunnen zij het bestuur vertegenwoordigen.
 
 # DEELNAME AAN VERKIEZINGEN
 
