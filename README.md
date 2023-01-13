@@ -2,8 +2,7 @@
 
 ## Artikel 1. lidmaatschap
 
-1.  Het bestuur beslist over het toelaten van leden, zoals bepaald in
-    [artikel 4](#) van de [statuten](#).
+1.  Het bestuur beslist in eerste instantie over het toelaten van leden.
 
 1.  Het kan redelijkerwijs niet van de vereniging gevergd worden een
     persoon als lid toe te laten of het lidmaatschap van een persoon te
@@ -131,17 +130,6 @@
 1.  De partijraad vertegenwoordigt de leden tussen samenkomsten
     van de algemene vergadering.
 
-1.  De leden van de partijraad worden door de algemene vergadering
-    benoemd en bestaan uit twee geledingen.
-
-    1.  Ieder afdelingsbestuur van een volwaardige afdeling draagt uit
-        haar midden één bestuurslid voor als kandidaat-lid van de
-        partijraad.
-
-    1.  Maximaal vijfentwintig leden die geen deel uit maken van een
-        afdelingsbestuur kunnen zichzelf voordragen als kandidaat-lid
-        van de partijraad.
-
 1.  De partijraad kan uit zijn midden een of meer commissies benoemen
     die belast worden met een speciale taak. De werkwijze van de
     commissies wordt vastgesteld door de partijraad.
@@ -218,11 +206,6 @@
 1.  Verdere richtlijnen omtrent de verkiezing van de partijraad kunnen worden
     vastgelegd in het [verkiezingsbeleid](#).
 
-1.  Leden van de partijraad worden ontslagen en geschorst door de
-    algemene vergadering, dan wel uit hun functie ontheven door
-    uittreding bij het afdelingsbestuur in geval dat een lid is
-    voorgedragen op basis van [artikel 5, lid 3, sub a](#).
-
 ## Artikel 7. besluitvorming
 
 1.  De partijraad komt ten minste vier maal per jaar bijeen,
@@ -273,12 +256,6 @@
 1.  In geval van een even aantal stemmen, bijvoorbeeld door afwezigheid
     van een of meerdere leden, mag het partijbestuur meestemmen met één
     stem.
-
-1.  Tot het (tijdelijk) afwijken van het huishoudelijk reglement kan
-    slechts worden besloten in een vergadering waarin ten minste
-    twee/derde van het totale aantal leden van de partijraad aanwezig
-    is, met een meerderheid van ten minste twee/derde van het aantal
-    geldig uitgebrachte stemmen.
 
 # HET PARTIJBESTUUR
 
@@ -649,8 +626,6 @@
     1.  Het ondersteunen en controleren van de gemeenteraadsfractie
         door regelmatige gesprekken op de hoogte te blijven
         van de politieke activiteiten van de gemeenteraadsfractie.
-
-    1.  Het uit haar midden verkiezen van een lid van de partijraad.
 
 1.  Het afdelingsbestuur heeft daarnaast de bevoegdheid tot:
 
@@ -1055,35 +1030,42 @@ wordt door het partijbestuur vastgelegd.
 1.  De verdere procedures en termijnen omtrent beroepen staan omschreven
     in het [Reglement Geschillencommissie](#).
 
-# INZIEN DOOR LEDEN
+# Slotbepalingen
 
 ## Artikel 32. Inzien door leden
 
-1.  De [statuten](#) zijn te allen tijde op de [website van de partij](#)
+1.  De [statuten](#) en het huishoudelijk reglement zijn te allen tijde op de [website van de partij](#)
     beschikbaar.
 
-1.  Het huishoudelijk reglement is te allen tijde op de website van de
-    partij beschikbaar.
+## Artikel 33. Besluitvorming
 
-# AANPASSING HUISHOUDELIJK REGLEMENT
+1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
+    worden bij stemmingen blanco stemmen en ongeldig uitgebrachte stemmen
+    beschouwd als te zijn van onwaarde en bij het bepalen
+    van een meerderheid niet meegeteld.
 
-## Artikel 33. Aanpassing reglement
+1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
+    worden besluiten genomen met een gewone meerderheid van stemmen.
 
-1.  Het huishoudelijk reglement wordt gewijzigd door de partijraad, met
-    uitzondering van de gevallen bepaald in [lid 3](#) en [lid 4](#) van dit
-    artikel.
+## Artikel 33. Aanpassing en afwijking van het reglement
 
-1.  Aanpassing geschiedt enkel met tweederde meerderheid van de
-    aanwezige leden van de partijraad dan wel de algemene vergadering.
+1.  De partijraad en de algemene vergadering hebben het recht het huishoudelijk reglement te wijzigen.
+    Geen andere organen dan de partijraad en de algemene vergadering hebben dit recht.
 
-1.  De algemene vergadering heeft het recht een beslissing tot wijziging
-    van het huishoudelijk reglement door de partijraad ongedaan te maken
-    en op de algemene vergadering in stemming te brengen. Hiertoe dient
-    een schriftelijk verzoek te worden ingediend bij het partijbestuur
+1.  Een besluit tot wijziging van het huishoudelijk reglement kan
+    door de partijraad slechts worden genomen in een vergadering
+    waarin ten minste 2/3 van de stemgerechtigde leden
+    aanwezig of vertegenwoordigd is.
+
+1.  Aanpassing van het huishoudelijk reglement geschiedt enkel
+    met tweederde meerderheid van de stemmen.
+
+1.  De algemene vergadering heeft het recht middels een gewone meerderheid
+    een wijziging van het huishoudelijk reglement door de partijraad ongedaan te maken.
+    Hiertoe dient een schriftelijk verzoek te worden ingediend bij het partijbestuur
     dat wordt ondersteund door tenminste 50 leden.
 
-1.  De algemene vergadering heeft het recht zelf een voorstel te doen
-    tot wijziging van het huishoudelijk reglement en daarmee een eigen
-    stemming over de wijziging te vragen. Hiertoe dient een schriftelijk
+1.  Om een wijzigingsvoorstel tijdens een bijeenkomst van de algemene vergadering in
+    stemming te brengen dient hiertoe een schriftelijk
     verzoek te worden ingediend bij het partijbestuur dat wordt
     ondersteund door tenminste 50 leden.
