@@ -1,9 +1,8 @@
-# LIDMAATSCHAP EN CONTRIBUTIE
+# Lidmaatschap en Contributie
 
-## Artikel 1. lidmaatschap
+## Artikel 1. Lidmaatschap
 
-1.  Het bestuur beslist over het toelaten van leden, zoals bepaald in
-    [artikel 4](#) van de [statuten](#).
+1.  Het bestuur beslist in eerste instantie over het toelaten van leden.
 
 1.  Het kan redelijkerwijs niet van de vereniging gevergd worden een
     persoon als lid toe te laten of het lidmaatschap van een persoon te
@@ -22,41 +21,49 @@
     van betaling zonder geldige reden kan het partijbestuur besluiten
     tot opzegging van het lidmaatschap.
 
-## Artikel 2. contributie
+## Artikel 2. Contributie
 
-1.  De hoogte van de door de leden te betalen contributie wordt
-    jaarlijks door de algemene vergadering vastgesteld.
+1.  De hoogte van de reguliere door de leden te betalen contributie wordt
+    door de algemene vergadering vastgesteld.
+    Daarnaast kan de partij afwijkende contributietarieven hanteren.
+    Ook dezen worden door de algemene vergadering vastgesteld.
 
-1.  Er kan door de algemene vergadering een afwijkende hoogte voor de
-    contributie voor leden woonachtig in Caribisch Nederland worden
-    vastgesteld ten opzichte van de hoogte van de contributie zoals
-    bedoeld in [lid 1](#).
+1.  Regelmatig wordt geëvalueerd of de hoogte van de tarieven past bij de
+    economische situatie, en indien nodig wordt de hoogte gewijzigd.
 
-1.  De vereniging hanteert tevens een sociaal tarief voor wie de te
-    betalen contributie niet kan worden betaald om financiële redenen.
-    De hoogte van dit tarief wordt ook jaarlijks door de algemene
-    vergadering vastgesteld.
+1.  Er kan een afwijkende tarief voor leden woonachtig in Caribisch Nederland
+    worden vastgesteld.
 
-# DE ALGEMENE VERGADERING
+1.  De vereniging hanteert een sociaal tarief voor leden die de reguliere
+    contributie om financiële redenen niet kunnen betalen.
 
-## Artikel 3. de algemene vergadering
+# De Algemene Vergadering
 
-1.  De algemene vergadering is het hoogste beslissende orgaan van de
-    partij.
+## Artikel 3. De Algemene Vergadering
 
-1.  De algemene vergadering wordt georganiseerd en voorgezeten door het
-    partijbestuur. Het partijbestuur stelt de agenda daarvoor vast. Alle
-    leden worden minstens twee weken van tevoren geïnformeerd over
-    locatie, tijd en agenda. De locatie is toegankelijk voor alle leden.
+1.  De algemene vergadering is het hoogste orgaan van de partij.
+    Zij bespreekt en besluit fundamentele politieke en organisatorische kwesties.
 
-1.  Ieder lid heeft toegang tot de algemene vergadering. Hiertoe worden
-    tijdig stappen ondernomen voor bijvoorbeeld schrijf- en
-    gebarentolken, toegankelijke visuele presentaties, en andere
-    benodigdheden. Een toereikend deel van de landelijke partijkas wordt
-    hiervoor toegekend.
+1.  Ieder lid heeft toegang tot de algemene vergadering.
 
-1.  De algemene vergadering heeft in ieder geval de volgende
-    bevoegdheden:
+1.  De algemene vergadering wordt georganiseerd en gefaciliteerd door het partijbestuur.
+    Het partijbestuur stelt een voorstel voor een agenda op.
+    Alle leden worden middels een schriftelijke uitnodiging minstens twee weken
+    van tevoren geïnformeerd over de locatie, tijd en de voorgestelde agenda.
+
+1.  De algemene vergadering stelt ter vergadering haar eigen vergaderagenda vast.
+
+1.  De algemene vergadering vergadert onder leiding van een
+    ter vergadering uit haar midden gekozen presidium.
+    Dit presidium bestaat onder meer uit de voorzitter van de vergadering.
+
+1.  Van het tijdens de algemene vergadering behandelde worden notulen opgesteld door het presidium.
+    Deze notulen bevatten onder meer alle op de vergadering genomen besluiten,
+    gedane toezeggingen en de uitslagen van alle stemmingen.
+    Deze notulen worden zo snel mogelijk na de vergadering gedeeld met alle leden en
+    tijdens de eerstvolgende algemene vergadering ter goedkeuring voorgelegd aan de leden.
+
+1.  De algemene vergadering heeft in ieder geval de volgende bevoegdheden:
 
     1.  Het controleren van het partijbestuur, de partijraad, de landelijke,
         provinciale en Europese fracties;
@@ -69,105 +76,74 @@
     1.  Het vaststellen van de jaarrekening en het voeren van controle op de
         financiële bescheiden middels de kascontrolecommissie;
 
-    1.  Het besluiten over wijzigingen in de [statuten](#) en, behoudens de
-        bepalingen van [artikel 32](#) van dit reglement, het huishoudelijk
+    1.  Het besluiten over wijzigingen in de [statuten](#) en het huishoudelijk
         reglement;
 
-    1.  Het vaststellen van de jaarlijks te betalen contributie.
-
-## Artikel 4. besluitvorming
+## Artikel 4. Besluitvorming
 
 1.  Stemmingen worden mondeling gehouden, tenzij een lid een
     schriftelijke stemming aanvraagt of de voorzitter een schriftelijke
-    stemming gewenst acht. Bij schriftelijke stemming zal uit de
-    aanwezige leden een stemcommissie samengesteld worden die zal
-    toezien op het tellen van de stemmen. Over personen wordt altijd
-    schriftelijk gestemd.
+    stemming wenselijk acht.
+    Over personen wordt altijd schriftelijk gestemd.
 
-1.  Besluiten worden genomen door een absolute meerderheid van stemmen,
-    tenzij in de [statuten](#) of dit reglement anders staat aangegeven.
-
-1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
-    recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
-    moet een schriftelijke machtiging opgesteld worden. Deze machtiging
-    is bij het bestuur te verkrijgen.
-
-1.  Op de machtiging staan de eisen vermeld waaraan de volmachtgever en
-    de gemachtigde moeten voldoen. Vierentwintig uur voor de vergadering
-    dient deze machtiging door de volmachtgever gemeld te worden bij het
-    partijbestuur en moet door de gemachtigde worden meegenomen in de
-    vergadering ter verificatie. Bij een online vergadering moet de
-    machtiging tenminste een uur voor de vergadering langs elektronische
-    weg verstuurd worden.
-
-1.  Een lid mag namens maximaal twee andere leden een stem uitbrengen.
+1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
+    tenzij in de [statuten](#) of in dit reglement anders is bepaald.
 
 1.  De basisbepalingen over de besluitvorming zijn vastgelegd in de
     [statuten](#).
 
 1.  Verdere zaken met betrekking tot de vergaderorde en
-    besluitvormingsprocessen worden door de algemene vergadering
-    vastgelegd in een [Reglement van Orde](#).
+    besluitvormingsprocessen kunnen door de algemene vergadering worden
+    vastgelegd in een [reglement van orde](#).
 
-# DE PARTIJRAAD
+## Artikel 5. Toegankelijkheid
 
-## Artikel 5. de partijraad
+1.  Er worden tijdig stappen ondernomen om de algemene vergadering
+    zo toegankelijk mogelijk te maken voor alle leden.
+    Hieronder kunnen bijvoorbeeld vallen: schrijf- en gebarentolken,
+    toegankelijke visuele presentaties, het bieden van een
+    mogelijkheid de vergadering digitaal bij te wonen
+    en het het zorgvuldig kiezen van de locatie.
+    Een toereikend deel van de landelijke partijkas wordt
+    hiervoor toegekend.
 
-1.  De leden van de partijraad worden verkozen door de algemene
-    vergadering voor een termijn van twee jaar. Een lid kan zich
-    maximaal twee opeenvolgende termijnen verkiesbaar stellen. De
-    partijraad vertegenwoordigt de stem van de leden tussen de algemene
-    vergaderingen in.
+1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
+    recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
+    moet een schriftelijke machtiging ingediend worden.
+    Het partijbestuur deelt in de uitnodiging mee hoe een machtiging
+    ingediend dient te worden.
 
-1.  Alleen zij die lid zijn van de vereniging kunnen lid worden van de
-    partijraad.
+1.  Vierentwintig uur voor de vergadering
+    dient de machtiging door de volmachtgever ingediend te worden bij het partijbestuur.
+    Deze machtiging moet ter verificatie tevens door de gemachtigde worden meegenomen in de
+    vergadering.
 
-1.  De leden van de partijraad worden door de algemene vergadering
-    benoemd en bestaan uit twee geledingen.
+1.  Een gemachtigd lid mag namens maximaal twee andere leden een stem uitbrengen.
 
-    1.  Ieder afdelingsbestuur van een volwaardige afdeling draagt uit
-        haar midden één bestuurslid voor als kandidaat-lid van de
-        partijraad.
+# De Partijraad
 
-    1.  Maximaal vijfentwintig leden die geen deel uit maken van een
-        afdelingsbestuur kunnen zichzelf voordragen als kandidaat-lid
-        van de partijraad.
+## Artikel 6. De Partijraad
 
-1.  De kandidaatstelling voor de partijraad geschiedt via het
-    partijbureau. Verdere bepalingen hieromtrent staan beschreven in
-    [artikel 6](#).
+1.  De partijraad is na de algemene ledenvergadering
+    het hoogste orgaan van de partij.
 
-1.  Leden van het partijbestuur en verkozen leden van fracties kunnen
-    niet lid zijn van de partijraad.
-
-1.  De partijraad vergadert onder leiding van een eigen voorzitter. Deze
-    voorzitter wordt niet in functie gekozen, maar ter vergadering uit
-    haar midden gekozen om de vergadering te leiden.
-
-1.  De partijraad heeft geen externe representatieve functie namens de
-    partij.
-
-1.  De agenda van de vergadering van de partijraad wordt door het
-    partijbureau opgemaakt. Voorafgaand aan de vergadering en terstond
-    ter vergadering kunnen leden van de partijraad en het partijbestuur
-    andere agendapunten toevoegen.
+1.  De partijraad vertegenwoordigt de leden tussen samenkomsten
+    van de algemene vergadering.
 
 1.  De partijraad kan uit zijn midden een of meer commissies benoemen
     die belast worden met een speciale taak. De werkwijze van de
     commissies wordt vastgesteld door de partijraad.
 
-1.  De partijraad draagt zorg voor:
+1.  De partijraad draagt onder meer zorg voor:
 
-    1.  het adviseren van het partijbestuur en de landelijke,
-        Provinciale en Europese fractie(s) op grote besluiten en
+    1.  het adviseren van het partijbestuur en de fractie(s) op grote besluiten en
         vraagstukken;
 
     1.  het agenderen van belangrijke onderwerpen bij het partijbestuur
-        of de landelijke fractie(s);
+        en de fractie(s);
 
     1.  het controleren van de algemene politieke lijn van de vereniging
-        en het adviseren van het bestuur en de landelijke fractie(s) ter
-        zake;
+        en het adviseren van het bestuur en de fractie(s) ter zake;
 
     1.  het beslissen over deelname aan Provinciale Staten-, Europese,
         Eerste Kamer- en Tweede Kamerverkiezingen;
@@ -177,17 +153,26 @@
     1.  het verbreden van de partijdemocratie door het actief betrekken
         van de leden bij het uitvoeren van bovenstaande taken.
 
-1.  Zaken met betrekking tot de vergaderorde worden door de partijraad
-    vastgelegd in een [Reglement van Orde](#).
+    1.  Verslagen van partijraadsvergaderingen worden op de [website](#) gepubliceerd.
+        De notulen zijn bij het partijbureau opvraagbaar voor leden.
 
-1.  Verslagen van partijraadsvergaderingen worden op de [website](#)
-    gepubliceerd. De notulen zijn bij het partijbureau opvraagbaar voor
-    leden.
+## Artikel 7. Benoeming, schorsing en ontslag
 
-## Artikel 6. benoeming, schorsing en ontslag
+1.  Leden van het partijbestuur worden benoemd,
+    geschorst en ontslagen door de algemene vergadering
+    voor een periode van ten hoogste 2 jaar.
 
-1.  De verkiezingen voor de benoeming van leden van de partijraad worden
-    georganiseerd door het partijbureau.
+1.  De leden van de partijraad worden verkozen door de algemene
+    vergadering voor een termijn van ten hoogste twee jaar,
+    met de mogelijkheid tot herverkiezing.
+
+1.  Alleen zij die lid zijn van de partij kunnen lid worden van de
+    partijraad.
+
+1.  Leden van het partijbestuur en volksvertegenwoordigers kunnen
+    niet lid zijn van de partijraad.
+
+1.  Het aantal partijraadszetels wordt door de algemene ledenvergadering bepaald.
 
 1.  De eisen voor kandidaatstelling zijn:
 
@@ -201,6 +186,9 @@
     1.  een individu is aantoonbaar langer dan zes maanden betrokken bij
         de vereniging voorafgaand aan de datum van kandidaatstelling.
 
+1.  Ieder lid dat voldoet aan deze eisen
+    kan zich kandidaat stellen voor verkiezing tot de partijraad.
+
 1.  Het partijbureau kan kandidaten uitsluiten voor verkiezing op grond
     dat:
 
@@ -210,46 +198,52 @@
     1.  de integriteit van deze persoon omstreden is, zoals bepaald
         volgens het integriteitsprotocol van de vereniging.
 
-1.  Verdere bepalingen omtrent de benoeming van de partijraad worden
-    vastgelegd in het [Verkiezingsbeleid](#).
-
 1.  De uitsluiting voor verkiezing of de weigering van benoeming wordt
     schriftelijk en duidelijk gemotiveerd medegedeeld aan desbetreffende
     persoon. Beroep tegen het besluit is mogelijk via de
     beroepsprocedure.
 
-1.  Leden van de partijraad worden ontslagen en geschorst door de
-    algemene vergadering, dan wel uit hun functie ontheven door
-    uittreding bij het afdelingsbestuur in geval dat een lid is
-    voorgedragen op basis van [artikel 5, lid 3, sub a](#).
+1.  Verdere richtlijnen omtrent de verkiezing van de partijraad kunnen worden
+    vastgelegd in het [verkiezingsbeleid](#).
 
-## Artikel 7. besluitvorming
+## Artikel 8. De Partijraadsvergadering.
 
-1.  De partijraad wordt bijeengeroepen door het partijbestuur, met
+1.  De partijraad komt ten minste vier maal per jaar bijeen,
+    en voorts zo vaak de partijraad of het partijbestuur dit wenselijk acht.
+
+1.  De partijraad kan door het partijbestuur bijeengeroepen worden, met
     inachtneming van een termijn van zeven dagen.
 
-1.  De partijraad komt ten minste vier maal per jaar bijeen.
+1.  De partijraad kan door de eigen leden bijeen worden geroepen.
+    Dit geschiedt middels een schriftelijke bijeenroeping die wordt
+    ondersteund door ten minste 20% van de leden van de partijraad.
 
-1.  De partijraad kan ook door de eigen leden bijeen worden geroepen.
-    Dit kan via schriftelijk verzoek aan het partijbestuur dat wordt
-    gesteund door minstens 20% van de leden van de partijraad.
+1.  Het partijbestuur faciliteert, eventueel via het partijbureau,
+    samenkomsten van de partijraad.
+    Een toereikend deel van de landelijke partijkas wordt hiervoor toegekend.
 
-1.  Na ontvangst van een verzoek als in [lid 3](#) bedoeld, is het
-    partijbestuur verplicht tot bijeenroeping van een
-    partijraadsvergadering die binnen een maand na voormelde ontvangst
-    moet plaatsvinden. Indien aan het verzoek tot bijeenroeping binnen
-    veertien dagen nadat dit door het partijbestuur werd ontvangen geen
-    gevolg wordt gegeven, zullen de verzoekers zelf tot die
-    bijeenroeping kunnen overgaan op de wijze waarop het partijbestuur
-    de partijraadsvergaderingen bijeenroept.
+1.  De partijraad vergadert onder leiding van een eigen voorzitter. Deze
+    voorzitter wordt niet in functie gekozen, maar ter vergadering
+    door de vergadering uit haar midden gekozen.
 
-1.  Van het in de partijraadsvergadering verhandelde wordt door het
-    partijbureau verslag opgemaakt.
+1.  De voorzitter van de partijraadsvergadering wordt bijgestaan door een of meerdere secretarissen.
+    Het partijbureau draagt zorg voor de beschikbaarheid van een of meerdere secretarissen.
+
+1.  Een voorstel voor de agenda voor de vergadering van de partijraad kan
+    door het partijbureau in samenspraak met de partijraad
+    en/of het partijbestuur worden opgemaakt.
+
+1.  De partijraadsvergadering stelt ter vergadering haar vergaderagenda vast.
+
+1.  Zaken met betrekking tot de vergaderorde van de partijraadsvergadering
+    worden door de partijraad vastgelegd in een [Reglement van Orde](#).
 
 1.  Leden van de partijraad stemmen mondeling, tenzij een lid van de
     partijraad voorstelt schriftelijk te stemmen. De stemmen worden
-    geteld door de voorzitter van de vergadering en de partijsecretaris.
+    geteld door de voorzitter en de secretaris van de vergadering.
     De partijraad stemt hoofdelijk.
+    Besluitvorming bij acclamatie is mogelijk,
+    tenzij een lid van de partijraad aangeeft daar bezwaar tegen te hebben.
 
 1.  Een in de partijraadsvergadering door de voorzitter uitgesproken
     oordeel omtrent de uitslag van een stemming is beslissend. Indien
@@ -263,23 +257,15 @@
     van een of meerdere leden, mag het partijbestuur meestemmen met één
     stem.
 
-1.  Tot het (tijdelijk) afwijken van het huishoudelijk reglement kan
-    slechts worden besloten in een vergadering waarin ten minste
-    twee/derde van het totale aantal leden van de partijraad aanwezig
-    is, met een meerderheid van ten minste twee/derde van het aantal
-    geldig uitgebrachte stemmen.
+# Commissies, gremia en werkgroepen
 
-# HET PARTIJBESTUUR
+## Artikel 9. Het Partijbestuur
 
-## Artikel 8. het partijbestuur
+1.  Het partijbestuur is na de algemene vergadering en de partijraad
+    het hoogste orgaan van de partij.
 
-1.  Het partijbestuur wordt verkozen door de algemene vergadering.
-    Bestuurders worden gekozen voor een periode van twee jaar.
-
-1.  Het partijbestuur bestaat uit tenminste drie leden. Er is geen
-    maximum grootte van een bestuur. In geval een bestuur uit minder dan
-    drie leden bestaat, wordt zo snel mogelijk een nieuwe vacature
-    uitgeschreven en een algemene vergadering belegd.
+1.  Het partijbestuur is verantwoordelijk voor het dagelijks bestuur
+    van de partij.
 
 1.  De partijleider zit aan bij de bestuursvergaderingen, maar heeft
     geen stemrecht. De partijleider heeft wel het recht om het
@@ -287,11 +273,9 @@
 
 1.  Het partijbestuur is belast met de taak om verantwoording af te
     leggen over haar beleid en haar financiën aan de algemene
-    vergadering;
+    vergadering en aan de partijraad;
 
-1.  Het partijbestuur is voorts verantwoordelijk voor het besturen van
-    de vereniging. Haar taken en verantwoordelijkheden zijn in ieder
-    geval:
+1.  De verdere taken en verantwoordelijkheden van het partijbestuur omvatten in ieder geval:
 
     1.  Het financieel beheer van de vereniging. Het bestuur is, als
         enige rechtspersoon in de vereniging, tevens verantwoordelijk
@@ -316,14 +300,9 @@
     1.  Het toezien op een veilige werk- en verblijfsomgeving binnen de
         partijgremia;
 
-    1.  Het beslissen over deelname op lokaal niveau, conform [artikel 19](#)
-        van dit reglement;
+    1.  Het beslissen over deelname op lokaal niveau, conform artikel 19 van dit reglement;
 
-    1.  Het adviseren over het programma en de kandidatenlijst voor
-        gemeenteraadsverkiezingen;
-
-    1.  Het voordragen van een beslissing over deelname aan verkiezingen
-        op landelijk, Europees en provinciaal niveau aan de partijraad;
+    1.  Het adviseren over het programma en de kandidatenlijst voor gemeenteraadsverkiezingen;
 
     1.  Het opstellen en waarborgen van vrijwilligersbeleid;
 
@@ -338,39 +317,45 @@
     gemaakt in functie of een door de algemene vergadering vastgesteld
     bedrag voor de onkostenvergoeding.
 
-## Artikel 9. Benoeming, schorsing en ontslag
+## Artikel 10. Benoeming, schorsing en ontslag
 
 1.  Leden van het partijbestuur worden benoemd, geschorst en ontslagen
-    door de algemene vergadering.
+    door de algemene vergadering voor een periode van ten hoogste 2 jaar.
 
-1.  Slechts zij die langer dan 6 maanden lid zijn van de vereniging
-    ofwel zij die aantoonbaar structureel actief zijn in de partij
+1.  Het partijbestuur bestaat uit tenminste drie leden.
+    In geval een bestuur uit minder dan drie leden bestaat,
+    wordt zo snel mogelijk een algemene vergadering belegd.
+
+1.  De samenstelling van het partijbestuur,
+    de functieverdeling binnen het partijbestuur en wijzigingen,
+    waaronder tijdelijke wijzigingen, in deze samenstelling
+    en functieverdeling worden aan de leden onverwijld gecommuniceerd.
+
+1.  Alle leden die niet geschorst zijn en langer dan 6 maanden lid zijn
+    van de vereniging ofwel aantoonbaar structureel actief zijn in de partij
     kunnen zich kandidaat stellen voor het partijbestuur.
 
-1.  De sollicitatieprocedure voor bestuursleden loopt via een
+1.  De kandideringsprocedure voor bestuursleden loopt via een
     onafhankelijke kandidatencommissie, waarin geen mensen zitting
     hebben die zich verkiesbaar stellen.
+    De kandidatencommissie kan ervoor kiezen kandidaten voor te dragen of niet voor te dragen.
+    In beide gevallen dient de kandidatencommissie hun besluit te onderbouwen.
 
-1.  Alle leden die niet geschorst zijn, kunnen zich kandidaat stellen
-    voor het partijbestuur.
-
-1.  Kandidaten voor het partijbestuur worden voorgedragen door de
-    kandidatencommissie. De kandidatencommissie kan ervoor kiezen
-    kandidaten niet voor te dragen. In beide gevallen dient de
-    kandidatencommissie hun besluit te onderbouwen.
+1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de algemene ledenvergadering bepaald.
+    Het zittende dan wel vertrekkende bestuur heeft hierin een adviserende rol.
 
 1.  Kandidaten voor het partijbestuur zijn gekozen wanneer zij een
     meerderheid van de uitgebrachte stemmen op de algemene vergadering
     hebben behaald.
 
-1.  In geval dat er zich meer kandidaten verkiesbaar hebben gesteld dan
-    er bestuursfuncties vacant zijn, geldt dat wie de meeste stemmen
+1.  In geval dat er meer kandidaten worden verkozen dan
+    er bestuurszetels voor verkiezing beschikbaar zijn, geldt dat wie de meeste stemmen
     heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
     dat meerdere kandidaten zich voor een specifieke bestuursfunctie
     verkiesbaar hebben gesteld.
 
-1.  Verdere bepalingen omtrent de benoeming van het partijbestuur zijn
-    beschreven in het [Verkiezingsbeleid](#) van de vereniging.
+1.  Verdere richtlijnen omtrent de verkiezing van het partijbestuur kunnen worden
+    beschreven in het [verkiezingsbeleid](#) van de partij.
 
 1.  Bij kandidering dient een kandidaat-bestuurslid een
     integriteitsverklaring te overleggen aan het partijbureau.
@@ -392,45 +377,45 @@
 1.  Opzeggen van het lidmaatschap van de partij leidt altijd tot ontslag
     uit het partijbestuur.
 
-# COMMISSIES
+# Commissies, gremia en werkgroepen
 
-## Artikel 10. commissies
+## Artikel 11. Commissies, gremia en werkgroepen
 
-1.  Het partijbestuur is statutair bevoegd om onder diens
-    verantwoordelijkheid gremia en commissies in te stellen.
+1.  Het partijbestuur, de partijraad en de afdelingsbesturen zijn bevoegd om onder hun
+    verantwoordelijkheid commissies, gremia en werkgroepen in te stellen.
 
-1.  Het partijbestuur heeft als taak het:
+1.  Het orgaan onder wiens verantwoordelijkheid de commissie, het gremium of de werkgroep valt heeft als taak het:
 
-    1.  benoemen, schorsen en ontslaan van commissieleden;
+    1.  benoemen, schorsen en ontslaan van de leden van de commissie, het gremium of de werkgroep;
 
     1.  formuleren, het vaststellen en het in samenspraak met leden van
-        de commissie herzien van de opdracht aan een commissie;
+    de commissie, het gremium of de werkgroep herzien van de opdracht aan een commissie, gremium of werkgroep;
 
     1.  het controleren van de uitvoering van hetgeen in de
-        commissie-opdracht is bepaald;
+        opdracht is bepaald;
 
-    1.  vaststellen van de financiële bevoegdheid van de commissies;
+    1.  vaststellen van de financiële bevoegdheid van de de commissie, het gremium of de werkgroep;
 
-    1.  in samenspraak met de commissie opheffen van de commissie
+    1.  in samenspraak met de commissie, het gremium of de werkgroep het opheffen van de commissie, het gremium of de werkgroep.
 
-1.  Over de uitvoering van hun opdracht legt de commissie verantwoording
-    af aan het partijbestuur.
+1.  Over de uitvoering van hun opdracht legt de commissie, het gremium of de werkgroep verantwoording
+    af aan het orgaan onder wiens verantwoordelijkheid ze valt.
 
 1.  In een kandidatencommissie voor welke verkiezing dan ook, kan geen
     lid plaatsnemen dat zich tevens kandidaat stelt voor de betreffende
     verkiezing.
 
-1.  De zittingstermijn en besluitvormingsmodellen van een commissie
-    worden in de opdracht vastgesteld.
+1.  De zittingstermijn en besluitvormingsmodellen van de commissie,
+    het gremium of de werkgroep worden in de opdracht vastgesteld.
 
-# HET PARTIJBUREAU
+# Het Partijbureau
 
-## Artikel 11. het partijbureau
+## Artikel 12. Het Partijbureau
 
-1.  De secretaris en de penningmeester van het partijbestuur zijn
-    verantwoordelijk voor het partijbureau.
+1.  Het partijbureau is een uitvoerend orgaan van de partij.
+    Zij valt onder de verantwoordelijkheid van &mdash; en handelt in naam van het partijbestuur.
 
-1.  Het partijbureau draagt zorg voor:
+1.  Het partijbureau draagt onder meer zorg voor:
 
     1.  de ledenadministratie;
 
@@ -451,7 +436,7 @@
     1.  het ondersteunen van de partijraad in alle administratieve en
         overige ondersteunende werkzaamheden.
 
-## Artikel 12. Benoeming, schorsing en ontslag
+## Artikel 13. Benoeming, schorsing en ontslag
 
 1.  De leden van het partijbureau worden benoemd, geschorst en ontslagen
     door het partijbestuur.
@@ -467,9 +452,9 @@
 1.  Opzeggen van het lidmaatschap van de partij leidt altijd tot ontslag
     uit het partijbureau.
 
-# DE AFDELING
+# De Afdeling
 
-## Artikel 13. Oprichting en begrenzing van een Afdeling
+## Artikel 14. Oprichting en begrenzing van een Afdeling
 
 1.  Leden uit eenzelfde gebied kunnen zich verenigen om schriftelijk de
     status ‘afdeling in oprichting’ aan te vragen bij het partijbestuur.
@@ -487,14 +472,14 @@
         binnen het gebied van de afdeling wonen;
 
     1.  de afdeling in oprichting heeft een afdelingsbestuur gekozen van
-        tenminste 3 leden, dat functioneert conform de bepalingen van
-        [artikel 17](#) van dit reglement;
+        tenminste 3 leden, dat functioneert conform de bepalingen in
+        in het huishoudelijk reglement en de statuten van de partij;
 
     1.  de afdeling in oprichting dient een bestuursplan in binnen 30
         dagen na de afdelingsvergadering waarop het bestuur is verkozen;
 
     1.  aan het partijbestuur bewezen hebben te kunnen voldoen aan de
-        zaken die in [artikel 5](#) en [7](#) van dit reglement zijn bepaald.
+        vereisten in het huishoudelijk reglement en de statuten van de partij.
 
 1.  Het partijbestuur besluit over de erkenning als volwaardige afdeling
     binnen een half jaar na het verlenen van de status ‘afdeling in
@@ -507,7 +492,7 @@
 
 1.  Het partijbestuur stelt de fysieke grenzen van een afdeling vast.
 
-## Artikel 14. Opheffing van een afdeling
+## Artikel 15. Opheffing van een Afdeling
 
 1.  Het partijbestuur beslist over de opheffing van een afdeling indien
     deze niet meer aan de in dit reglement en/of [statuten](#) gestelde taken
@@ -526,18 +511,27 @@
     definitief besluit nemen. De leden van een afdeling zullen hierover
     schriftelijk worden geïnformeerd.
 
-# DE AFDELINGSVERGADERING
+# De Afdelingsvergadering
 
-## Artikel 15. de Afdelingsvergadering
+## Artikel 16. De Afdelingsvergadering
 
-1.  Een afdeling is het hoogste orgaan in de afdeling en organiseert
-    minstens eenmaal per jaar een afdelingsvergadering en voorts zo vaak
-    als het afdelingsbestuur dit noodzakelijk acht.
+1.  De afdelingsvergadering is het hoogste orgaan binnen de afdeling.
+
+1.  De afdelingsvergadering komt tenminste eenmaal per jaar samen en voorts zo vaak
+    het afdelingsbestuur dit wenselijk acht.
 
 1.  Het afdelingsbestuur roept de afdelingsvergadering bijeen en stelt
-    de agenda daarvoor vast. Alle leden die woonachtig zijn binnen het
+    een voorstel voor een agenda op.
+
+1.  Alle leden die woonachtig zijn binnen het
     afdelingsgebied worden minstens twee weken van tevoren geïnformeerd
-    over locatie, tijd en agenda.
+    over locatie, tijd en de voorgestelde agenda.
+
+1.  De afdelingsvergadering stelt ter vergadering haar eigen vergaderagenda vast.
+
+1.  De afdelingsvergadering vergadert onder leiding van
+    een ter vergadering gekozen presidium.
+    Dit presidium bestaat onder meer uit de voorzitter van de vergadering.
 
 1.  De afdelingsvergadering is toegankelijk voor alle leden van de
     afdeling. Hiertoe worden tijdig stappen ondernomen voor bijvoorbeeld
@@ -546,17 +540,18 @@
     partijkas wordt hiervoor toegekend.
 
 1.  Van afdelingsvergaderingen wordt een schriftelijk verslag opgesteld.
-    Het verslag wordt ter goedkeuring voorgelegd op de eerstvolgende
-    afdelingsvergadering en gedeeld met de leden.
+    Het verslag wordt zo spoedig mogelijk na de vergadering
+    schriftelijk aan de leden van de afdeling, het partijbestuur,
+    het partijbureau en de partijraad toegezonden.
+    Het verslag wordt op de eerstvolgende afdelingsvergadering
+    ter goedkeuring voorgelegd aan de leden.
 
-1.  Leden hebben het recht het afdelingsbestuur op te roepen tot het
-    organiseren van een afdelingsvergadering. Hiervoor kunnen tenminste
-    25 leden, of ten minste 10% van de leden, die woonachtig zijn binnen
-    het afdelingsgebied een schriftelijk verzoek indienen. Het
-    afdelingsbestuur roept de afdelingsvergadering vervolgens zo spoedig
-    mogelijk, doch in ieder geval binnen een maand, bijeen. Het door
-    deze leden aan de orde gestelde punt wordt door het afdelingsbestuur
-    op de agenda geplaatst.
+1.  De afdelingsvergadering kan door leden van een afdeling bijeen geroepen worden.
+    Dit geschiedt via een schriftelijke bijeenroeping die wordt ondersteund door
+    tenminste 25 leden of door tenminste 10% van de leden van de afdeling,
+    waarbij het laagste aantal telt.
+    De agenda voor deze afdelingsvergadering bevat in ieder geval
+    het door deze leden aan de orde gestelde punt.
 
 1.  De leden die woonachtig zijn binnen het afdelingsgebied kunnen
     vooraf aan de vergadering en ter vergadering agendapunten
@@ -573,7 +568,7 @@
     bereikte coalitieakkoord en kennis over de door het afdelingsbestuur
     en gemeenteraadsfractie voorgestelde kandidaat-wethouder(s).
 
-## Artikel 16. Besluitvorming
+## Artikel 17. Besluitvorming
 
 1.  Stemmingen worden mondeling gehouden, tenzij een lid een
     schriftelijke stemming aanvraagt of de voorzitter een schriftelijke
@@ -586,10 +581,10 @@
     te zijn van onwaarde en worden bij het bepalen van een meerderheid
     niet meegeteld.
 
-1.  Besluiten worden genomen door een absolute meerderheid van stemmen,
+1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
     tenzij in de [statuten](#) of dit reglement anders staat aangegeven.
-    Indien de stemmen staken, dan wordt er opnieuw gestemd. Dit gebeurt
-    net zo vaak totdat er een beslissing is.
+    Indien de stemmen staken, dan wordt er opnieuw gestemd.
+    Staken de stemmen nogmaals, dan beslist het lot.
 
 1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
     recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
@@ -597,39 +592,18 @@
     het gemachtigde lid bij zich moet hebben op de vergadering. Een lid
     mag namens maximaal twee andere leden een stem uitbrengen.
 
-# HET AFDELINGSBESTUUR
+# Het Afdelingsbestuur
 
-## Artikel 17. het Afdelingsbestuur
+## Artikel 18. Het Afdelingsbestuur
 
-1.  Een afdelingsbestuur wordt gekozen door de ledenvergadering.
-    Afdelingsbestuurders worden gekozen voor een periode van twee jaar.
-
-1.  Een afdelingsbestuur bestaat uit tenminste drie leden. In geval een
-    bestuur uit minder dan drie leden bestaat, wordt zo snel mogelijk
-    een afdelingsvergadering belegd.
-
-1.  De functies van voorzitter, secretaris en penningmeester worden door
-    en uit het midden van het gekozen bestuur benoemd. De
-    functieverdeling en wijzigingen daarin worden aan de leden in het
-    afdelingsgebied gecommuniceerd.
-
-1.  De partij kent geen aspirant-bestuursleden en mensen die het bestuur
-    ondersteunen hebben geen stemrecht in bestuursvergaderingen, noch
-    kunnen zij het bestuur vertegenwoordigen.
-
-1.  Het afdelingsbestuur besluit met een absolute meerderheid van
-    stemmen. Voor een stemming moet een absolute meerderheid van de
-    bestuursleden een stem uitbrengen.
-
-1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
-    leden van het afdelingsbestuur en gasten die schriftelijk namens ten
-    minste twee leden van het afdelingsbestuur zijn uitgenodigd.
+1.  Het afdelingsbestuur is na de afdelingsvergadering het hoogste orgaan binnen de afdeling.
+    Zij is verantwoordelijk voor het dagelijks bestuur van de afdeling.
 
 1.  De afdeling gaat uitsluitend over beleid dat inhoudelijk en fysiek
     van toepassing is op zaken binnen de grenzen van het
     afdelingsgebied.
 
-1.  Het afdelingsbestuur heeft de volgende taken:
+1.  Het afdelingsbestuur heeft onder meer de volgende taken:
 
     1.  Het lokaal representeren van BIJ1 en het uitdragen van de
         politieke doelstellingen van de partij;
@@ -638,10 +612,9 @@
         zowel leden als andere geïnteresseerden;
 
     1.  Het afleggen van verantwoording over haar beleid en financiën
-        aan het partijbestuur en de leden van de afdeling. De
-        verantwoording aan het partijbestuur gebeurt via een
-        tweemaandelijkse afdelingsupdate. De eisen voor de update en het
-        plan worden door het partijbestuur opgesteld.
+        aan het partijbestuur en de leden van de afdeling.
+        Het partijbestuur bepaalt de vorm van- en de eisen
+        omtrent de verantwoording aan het partijbestuur.
 
     1.  In overleg met het landelijk bestuur, deelnemen aan verkiezingen
         die in het afdelingsgebied zijn uitgeschreven;
@@ -650,9 +623,9 @@
         de kandidatenlijst en het inwinnen van advies over het opstellen
         van het programma en de kandidatenlijst bij het partijbestuur;
 
-    1.  Het controleren van de activiteiten van de gemeenteraadsfractie;
-
-    1.  Het uit haar midden verkiezen van een lid van de partijraad.
+    1.  Het ondersteunen en controleren van de gemeenteraadsfractie
+        door regelmatige gesprekken op de hoogte te blijven
+        van de politieke activiteiten van de gemeenteraadsfractie.
 
 1.  Het afdelingsbestuur heeft daarnaast de bevoegdheid tot:
 
@@ -663,98 +636,139 @@
     1.  Het instellen en ontbinden van lokale commissies en lokale
         werkgroepen, zoals een kandidatencommissie.
 
-## Artikel 18. Benoeming, schorsing en ontslag
+## Artikel 19. Benoeming, schorsing en ontslag
 
 1.  Leden van het afdelingsbestuur worden verkozen door de
     afdelingsvergadering.
+    Leden van het afdelingsbestuur worden verkozen,
+    geschorst en ontslagen door de afdelingsvergadering.
+    Afdelingsbestuurders worden gekozen voor een periode van ten hoogste twee jaar.
 
-1.  Slechts zij die langer dan 6 maanden lid zijn van de vereniging
-    ofwel zij die aantoonbaar structureel actief zijn in de partij
+1.  Een afdelingsbestuur bestaat uit tenminste drie leden.
+    In geval een bestuur uit minder dan drie leden bestaat,
+    wordt zo snel mogelijk een afdelingsvergadering belegd.
+
+1.  Alle leden van de afdeling die langer dan 6 maanden lid zijn van &mdash;
+    of structureel actief zijn voor de partij,
     kunnen zich kandidaat stellen voor het afdelingsbestuur.
 
-1.  De sollicitatieprocedure voor bestuursleden loopt via een
-    onafhankelijke kandidatencommissie, waarin geen mensen zitting
-    hebben die zich verkiesbaar stellen. Het partijbestuur legt de
-    verdere procedure omtrent verkiezing van bestuursleden vast in het
-    [Verkiezingsbeleid](#).
+1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de afdelingsvergadering bepaald.
+    Het zittende danwel vertrekkende afdelingsbestuur heeft hierin een adviserende rol.
 
-1.  Alle leden die binnen het afdelingsgebied wonen, kunnen zich
-    kandidaat stellen voor het afdelingsbestuur.
+1.  De functies van voorzitter, secretaris en penningmeester worden door
+    en uit het midden van het gekozen bestuur benoemd,
+    tenzij de afdelingsvergadering ervoor kiest deze bestuursleden in functie te benoemen.
+
+1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een meerderheid
+    van de uitgebrachte stemmen op de afdelingsvergadering hebben behaald.
+    In geval dat er meer kandidaten verkozen worden dan
+    er bestuurszetels vacant zijn, geldt dat wie de meeste stemmen
+    heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
+    dat meerdere kandidaten zich voor een specifieke bestuursfunctie
+    verkiesbaar hebben gesteld.
+
+1.  De samenstelling van het afdelingsbestuur, de functieverdeling
+    binnen het afdelingsbestuur en wijzigingen in deze samenstelling en
+    functieverdeling worden aan de leden van de afdeling, het partijbestuur,
+    het partijbureau en de partijraad onverwijld gecommuniceerd.
+
+1.  Het einde van het lidmaatschap van de partij leidt altijd tot ontslag uit het afdelingsbestuur.
+
+1.  Leden van het afdelingsbestuur kunnen geschorst of ontslagen worden door het partijbestuur.
+
+1.  De kandideringsprocedure voor afdelingsbestuursleden loopt via een
+    onafhankelijke kandidatencommissie, waarin geen mensen zitting
+    hebben die zich verkiesbaar stellen.
 
 1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de
     kandidatencommissie. De kandidatencommissie kan ervoor kiezen
     kandidaten niet voor te dragen. In beide gevallen dient de
     kandidatencommissie hun besluit te onderbouwen.
 
-1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een
-    meerderheid van de uitgebrachte stemmen op de afdelingsvergadering
-    hebben behaald.
+1.  Verdere richtlijnen omtrent de verkiezing van afdelingsbestuursleden
+    kunnen worden beschreven in het [verkiezingsbeleid](#) van de partij.
 
-1.  In geval dat er zich meer kandidaten verkiesbaar hebben gesteld dan
-    er bestuursfuncties vacant zijn, geldt dat wie de meeste stemmen
-    heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
-    dat meerdere kandidaten zich voor een specifieke bestuursfunctie
-    verkiesbaar hebben gesteld.
+## Artikel 20. Vergadering en Besluitvorming
 
-1.  Leden van het afdelingsbestuur worden geschorst of ontslagen door
-    het partijbestuur of door een meerderheid van de
-    afdelingsvergadering.
+1.  Het afdelingsbestuur besluit met een gewone meerderheid van
+    stemmen. Voor een stemming moet een gewone meerderheid van de
+    afdelingsbestuursleden een stem uitbrengen.
 
-1.  Verdere bepalingen omtrent de verkiezing van afdelingsbestuursleden
-    zijn beschreven in het [Verkiezingsbeleid](#) van de vereniging.
+1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
+    leden van het afdelingsbestuur en gasten die schriftelijk namens ten
+    minste twee leden van het afdelingsbestuur zijn uitgenodigd.
 
-# DEELNAME AAN VERKIEZINGEN
+1.  De partij kent geen aspirant-bestuursleden en mensen die het bestuur
+    ondersteunen hebben geen stemrecht in bestuursvergaderingen, noch
+    kunnen zij het bestuur vertegenwoordigen.
 
-## Artikel 19. Deelname aan gemeenteraadsverkiezingen
+# Deelname aan verkiezingen
 
-1.  Het afdelingsbestuur vraagt allereerst aan het partijbestuur
-    toestemming om onder de naam van BIJ1 te mogen deelnemen aan de
-    gemeenteraadsverkiezingen. Het partijbestuur beoordeelt deze
-    aanvraag en kan voorwaarden stellen aan de afdeling voor deelname
-    aan verkiezingen. Het partijbestuur zal beoordelen aan de hand van
-    de volgende zaken:
+## Artikel 21. Verkiezingen algemeen
 
-    1.  De mate waarin leden en geïnteresseerden betrokken en
-        geactiveerd worden bij de activiteiten van de afdeling;
+1.  Een kandidaat die verkozen wordt in de Provinciale Staten,
+    het Europees Parlement, de Eerste Kamer of de Tweede Kamer
+    kan niet daarnaast lid zijn van het partijbestuur.
 
-    1.  De status van de afdeling. Alleen een volwaardige afdeling kan
-        toestemming krijgen van het partijbestuur om onder de naam BIJ1
-        deel te nemen aan verkiezingen;
+1.  Op voordracht van het partijbestuur beslist de partijraad over deelname aan
+    Provinciale Statenverkiezingen, Europese verkiezingen,
+    Eerste Kamerverkiezingen en Tweede kamerverkiezingen.
 
-    1.  Strategische overwegingen.
+1.  Op voordracht van het partijbestuur beslist de partijraad over deelname aan
+    alle overige verkiezingen.
 
-1.  Het afdelingsbestuur stelt vervolgens aan de leden die woonachtig
-    zijn in het afdelingsgebied een kandidatenlijst en programma voor.
-    De afdelingsvergadering gaat over de vaststelling van de
-    kandidatenlijst en het programma.
+1.  Naast hetgeen vastgelegd is in het huishoudelijk reglement
+    worden verdere richtlijnen omtrent verkiezingen
+    vastgelegd in het [verkiezingsbeleid](#) van de vereniging.
 
-1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
-    kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
-    en op de wijze die het afdelingsbestuur daarvoor vaststelt.
+## Artikel 22. Deelname aan Europese verkiezingen
 
-1.  Als een lid dat zich kandidaat stelt, niet door het afdelingsbestuur
-    op de kandidatenlijst wordt geplaatst, kan dit lid beroep
-    aantekenen.
+1.  Het partijbestuur stelt een kandidatencommissie en een
+    programmacommissie in om namens het partijbestuur een
+    kandidatenlijst en programma op te stellen.
 
-1.  Het afdelingsbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
+1.  Het partijbestuur stelt aan de leden van de partij een
+    kandidatenlijst en programma voor. De algemene vergadering gaat
+    over de vaststelling van de kandidatenlijst en het programma.
 
-1.  Wanneer kandidaten in de gemeenteraad worden verkozen, dienen zij
-    over hun activiteiten verantwoording af te leggen aan het
-    afdelingsbestuur en de afdelingsvergadering.
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het partijbestuur daarvoor vaststelt.
 
-1.  Een kandidaat die verkozen wordt in de gemeenteraad kan niet
-    daarnaast lid zijn van het betreffende afdelingsbestuur of van de
-    partijraad.
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
 
-1.  Verdere richtlijnen omtrent gemeenteraadsverkiezingen zijn
-    vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
+## Artikel 23. Deelname aan Tweede Kamerverkiezingen
 
-## Artikel 20. Deelname aan Provinciale Statenverkiezingen
+1.  Het partijbestuur stelt een kandidatencommissie en een
+    programmacommissie in om namens het partijbestuur een
+    kandidatenlijst en programma op te stellen.
 
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Provinciale Statenverkiezingen.
+1.  Het partijbestuur stelt aan de leden van de partij een
+    kandidatenlijst en programma voor. De algemene vergadering gaat over
+    de vaststelling van de kandidatenlijst en het programma.
+
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het partijbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
+
+## Artikel 24. Deelname aan Eerste Kamerverkiezingen
+
+1.  Het partijbestuur stelt een kandidatencommissie in om namens het
+    partijbestuur een kandidatenlijst op te stellen.
+
+1.  Het partijbestuur stelt aan de leden van de partij een
+    kandidatenlijst voor. De algemene vergadering gaat over de
+    vaststelling van de kandidatenlijst.
+
+1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
+    de datum en op de wijze die het partijbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
+    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
+
+## Artikel 25. Deelname aan Provinciale Statenverkiezingen
 
 1.  Bij deelname, stelt het partijbestuur een kandidatencommissie en een
     programmacommissie waarvan de leden uitsluitend woonachtig zijn in
@@ -765,8 +779,8 @@
     desbetreffende provincie, een kandidatenlijst en programma voor op
     een vergadering die wordt belegd met de leden die woonachtig zijn in
     de provincie. Deze provinciale vergadering wordt voorgezeten door
-    het partijbestuur en beslist over de vaststelling van de
-    kandidatenlijst en het programma.
+    het partijbestuur en beslist over de vaststelling van
+    de kandidatenlijst en het programma.
 
 1.  Ieder lid dat woonachtig is in de desbetreffende provincie kan zich
     aanmelden om op de kandidatenlijst te staan, vóór de datum en op de
@@ -775,103 +789,7 @@
 1.  Als een lid dat zich kandidaat stelt, niet op de kandidatenlijst
     wordt geplaatst, kan dit lid beroep aantekenen.
 
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in de Provinciale Staten kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Provinciale Statenverkiezingen zijn
-    vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 21. Deelname aan Europese verkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Europese verkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie en een
-    programmacommissie in om namens het partijbestuur een
-    kandidatenlijst en programma op te stellen
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst en programma voor. De algemene vergadering gaat over
-    de vaststelling van de kandidatenlijst en het programma.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in het Europees Parlement kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Europese verkiezingen zijn vastgelegd in
-    het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 22. Deelname aan Eerste Kamerverkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Eerste Kamerverkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie in om namens het
-    partijbestuur een kandidatenlijst op te stellen.
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst voor. De algemene vergadering gaat over de
-    vaststelling van de kandidatenlijst.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in de Eerste Kamer kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Eerste Kamerverkiezingen zijn vastgelegd
-    in het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 23. Deelname aan Tweede Kamerverkiezingen
-
-1.  Op voordracht van het partijbestuur beslist de partijraad over
-    deelname aan Tweede Kamerverkiezingen.
-
-1.  Het partijbestuur stelt een kandidatencommissie en een
-    programmacommissie in om namens het partijbestuur een
-    kandidatenlijst en programma op te stellen.
-
-1.  Het partijbestuur stelt aan de leden van de afdeling een
-    kandidatenlijst en programma voor. De algemene vergadering gaat over
-    de vaststelling van de kandidatenlijst en het programma.
-
-1.  Ieder lid kan zich aanmelden om op de kandidatenlijst te staan, vóór
-    de datum en op de wijze die het afdelingsbestuur daarvoor vaststelt.
-
-1.  Als een lid dat zich kandidaat stelt, niet door het partijbestuur op
-    de kandidatenlijst wordt geplaatst, kan dit lid beroep aantekenen.
-
-1.  Het partijbestuur ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
-1.  Een kandidaat die verkozen wordt in de Tweede Kamer kan niet
-    daarnaast lid zijn van het partijbestuur of de partijraad.
-
-1.  Verdere richtlijnen omtrent Tweede Kamerverkiezingen zijn vastgelegd
-    in het [Verkiezingsbeleid](#) van de vereniging.
-
-## Artikel 24. Deelname aan Waterschapsverkiezingen
+## Artikel 26. Deelname aan Waterschapsverkiezingen
 
 1.  Afdelingen gevestigd binnen een of meer waterschappen kunnen aan het
     partijbestuur vragen om onder de naam van BIJ1 mee te doen aan
@@ -911,35 +829,81 @@
         afdelingsbestuur(en) op de kandidatenlijst wordt geplaatst, kan
         dit lid beroep aantekenen.
 
-1.  Het afdelingsbestuur(en) ziet erop toe dat iedere kandidaat op de
-    kandidatenlijst zich schriftelijk conformeert aan de
-    afdrachtregeling.
-
 1.  Wanneer kandidaten in het waterschap worden verkozen, dienen zij
     over hun activiteiten verantwoording af te leggen aan het
     afdelingsbestuur(en) en de afdelingsvergadering.
 
 1.  Een kandidaat die verkozen wordt in het waterschap kan niet
-    daarnaast lid zijn van het betreffende afdelingsbestuur(en) of van
-    de partijraad.
+    daarnaast lid zijn van het betreffende afdelingsbestuur(en).
 
-1.  Verdere richtlijnen omtrent waterschapsverkiezingen kunnen worden
-    vastgelegd in het [Verkiezingsbeleid](#) van de vereniging.
+## Artikel 27. Deelname aan Gemeenteraadsverkiezingen
 
-## Artikel 25. Afdrachtregeling
+1.  Het afdelingsbestuur vraagt allereerst aan het partijbestuur
+    toestemming om onder de naam van BIJ1 te mogen deelnemen aan de
+    gemeenteraadsverkiezingen. Het partijbestuur beoordeelt deze
+    aanvraag en kan voorwaarden stellen aan de afdeling voor deelname
+    aan verkiezingen. Het partijbestuur zal beoordelen aan de hand van
+    de volgende zaken:
+
+    1.  De mate waarin leden en geïnteresseerden betrokken en
+        geactiveerd worden bij de activiteiten van de afdeling;
+
+    1.  De status van de afdeling. Alleen een volwaardige afdeling kan
+        toestemming krijgen van het partijbestuur om onder de naam BIJ1
+        deel te nemen aan verkiezingen;
+
+    1.  Strategische overwegingen.
+
+1.  Het afdelingsbestuur stelt vervolgens aan de leden die woonachtig
+    zijn in het afdelingsgebied een kandidatenlijst en programma voor.
+    De afdelingsvergadering gaat over de vaststelling van de
+    kandidatenlijst en het programma.
+
+1.  Ieder lid dat woonachtig is in het desbetreffende afdelingsgebied
+    kan zich aanmelden om op de kandidatenlijst te staan, vóór de datum
+    en op de wijze die het afdelingsbestuur daarvoor vaststelt.
+
+1.  Als een lid dat zich kandidaat stelt, niet door het afdelingsbestuur
+    op de kandidatenlijst wordt geplaatst, kan dit lid beroep
+    aantekenen.
+
+1.  Wanneer kandidaten in de gemeenteraad worden verkozen, dienen zij
+    over hun activiteiten verantwoording af te leggen aan het
+    afdelingsbestuur en de afdelingsvergadering.
+
+1.  Een kandidaat die verkozen wordt in de gemeenteraad kan niet
+    daarnaast lid zijn van het betreffende afdelingsbestuur.
+
+## Artikel 28. Afdrachtregeling
 
 1.  De vereniging kent een afdrachtregeling. Deze wordt vastgesteld door
-    de algemene vergadering.
+de algemene vergadering.
 
 1.  De afdrachtregeling mag nooit tot gevolg hebben dat een gekozen
     persoon financieel in de knel komt.
 
-1.  De uit de afdrachtregeling verkregen middelen komen ten goede aan
-    binnen de vereniging actieve vrijwilligers.
+1.  Bij gemeenteraadsverkiezingen ziet het desbetreffende afdelingsbestuur
+    er op toe dat iedere kandidaat op de kandidatenlijst
+    zich schriftelijk committeert aan de afdrachtregeling.
 
-# REPRESENTATIE
+1.  Bij Provinciale Statenverkiezingen, Europese verkiezingen,
+    Eerste Kamerverkiezingen en Tweede kamerverkiezingen
+    ziet het partijbestuur erop toe dat iedere kandidaat
+    op de desbetreffende kandidatenlijst
+    zich schriftelijk committeert aan de afdrachtregeling.
 
-## Artikel 26. Representatie
+1.  Bij waterschapsverkiezingen zien de desbetreffende afdelingsbestuur(en)
+    erop toe dat iedere kandidaat op de kandidatenlijst
+    zich schriftelijk ommitteert aan de afdrachtregeling.
+
+1.  Voor alle overige kandidaten ziet het landelijk bestuur erop toe dat zij
+    zich schriftelijk committeren aan de afdrachtregeling.
+
+1.  De uit de afdrachtregeling verkregen middelen komen ten goede aan partij.
+
+# Representatie
+
+## Artikel 29. Representatie
 
 1.  In lijn met de politieke doelen van de partij om actieve deelname en
     vertegenwoordiging van mensen uit gemarginaliseerde posities te
@@ -952,15 +916,15 @@
 1.  Het beleid omtrent participatie focust daarnaast op interne scholing
     en (sociale) veiligheid.
 
-# VEILIGHEID EN GESCHILLEN
+# Veiligheid en geschillen
 
-## Artikel 27. Privacy en digitale veiligheid
+## Artikel 30. Privacy en digitale veiligheid
 
 Alle zaken omtrent privacy en digitale veiligheid worden vastgelegd in
 het [AVG-beleid](#) van de vereniging, conform geldende wetgeving. Dit beleid
 wordt door het partijbestuur vastgelegd.
 
-## Artikel 28. Veiligheid en gedragscode
+## Artikel 31. Veiligheid en gedragscode
 
 1.  Het partijbestuur stelt een [gedragscode](#) in die van toepassing is op
     alle leden van de vereniging en waarop ieder lid kan worden
@@ -983,7 +947,7 @@ wordt door het partijbestuur vastgelegd.
 1.  De gedragscode en Safer Space-richtlijnen zijn te allen tijde op de
     [website van de partij](#) beschikbaar.
 
-## Artikel 39. Geschillen
+## Artikel 32. Geschillen
 
 1.  Het partijbestuur stelt een geschillencommissie in met als taak op
     een onafhankelijke, betrouwbare en objectieve wijze geschillen te
@@ -999,9 +963,9 @@ wordt door het partijbestuur vastgelegd.
     [Reglement Geschillencommissie](#). Het Reglement Geschillencommissie
     wordt vastgesteld door het partijbestuur.
 
-# DUBBELLIDMAATSCHAP
+# Dubbellidmaatschap
 
-## Artikel 30. Dubbellidmaatschap
+## Artikel 33. Dubbellidmaatschap
 
 1.  Dubbellidmaatschap van meerdere politieke partijen is niet
     toegestaan voor leden van afdelingsbesturen, de partijraad, het
@@ -1020,9 +984,9 @@ wordt door het partijbestuur vastgelegd.
     worden gevergd het lidmaatschap te laten voortduren, zoals bepaald
     in [artikel 7 van de statuten](#).
 
-# BEROEPSPROCEDURE
+# Beroepsprocedure
 
-## Artikel 31. Beroepen
+## Artikel 34. Beroepen
 
 1.  (Kandidaat-)leden van de vereniging kunnen in beroep gaan tegen:
 
@@ -1065,35 +1029,42 @@ wordt door het partijbestuur vastgelegd.
 1.  De verdere procedures en termijnen omtrent beroepen staan omschreven
     in het [Reglement Geschillencommissie](#).
 
-# INZIEN DOOR LEDEN
+# Slotbepalingen
 
-## Artikel 32. Inzien door leden
+## Artikel 35. Inzien door leden
 
-1.  De [statuten](#) zijn te allen tijde op de [website van de partij](#)
+1.  De [statuten](#) en het huishoudelijk reglement zijn te allen tijde op de [website van de partij](#)
     beschikbaar.
 
-1.  Het huishoudelijk reglement is te allen tijde op de website van de
-    partij beschikbaar.
+## Artikel 36. Besluitvorming
 
-# AANPASSING HUISHOUDELIJK REGLEMENT
+1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
+    worden bij stemmingen blanco stemmen en ongeldig uitgebrachte stemmen
+    beschouwd als te zijn van onwaarde en bij het bepalen
+    van een meerderheid niet meegeteld.
 
-## Artikel 33. Aanpassing reglement
+1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
+    worden besluiten genomen met een gewone meerderheid van stemmen.
 
-1.  Het huishoudelijk reglement wordt gewijzigd door de partijraad, met
-    uitzondering van de gevallen bepaald in [lid 3](#) en [lid 4](#) van dit
-    artikel.
+## Artikel 37. Aanpassing en afwijking van het reglement
 
-1.  Aanpassing geschiedt enkel met tweederde meerderheid van de
-    aanwezige leden van de partijraad dan wel de algemene vergadering.
+1.  De partijraad en de algemene vergadering hebben het recht het huishoudelijk reglement te wijzigen.
+    Geen andere organen dan de partijraad en de algemene vergadering hebben dit recht.
 
-1.  De algemene vergadering heeft het recht een beslissing tot wijziging
-    van het huishoudelijk reglement door de partijraad ongedaan te maken
-    en op de algemene vergadering in stemming te brengen. Hiertoe dient
-    een schriftelijk verzoek te worden ingediend bij het partijbestuur
+1.  Een besluit tot wijziging van het huishoudelijk reglement kan
+    door de partijraad slechts worden genomen in een vergadering
+    waarin ten minste 2/3 van de stemgerechtigde leden
+    aanwezig of vertegenwoordigd is.
+
+1.  Aanpassing van het huishoudelijk reglement geschiedt enkel
+    met tweederde meerderheid van de stemmen.
+
+1.  De algemene vergadering heeft het recht middels een gewone meerderheid
+    een wijziging van het huishoudelijk reglement door de partijraad ongedaan te maken.
+    Hiertoe dient een schriftelijk verzoek te worden ingediend bij het partijbestuur
     dat wordt ondersteund door tenminste 50 leden.
 
-1.  De algemene vergadering heeft het recht zelf een voorstel te doen
-    tot wijziging van het huishoudelijk reglement en daarmee een eigen
-    stemming over de wijziging te vragen. Hiertoe dient een schriftelijk
+1.  Om een wijzigingsvoorstel tijdens een bijeenkomst van de algemene vergadering in
+    stemming te brengen dient hiertoe een schriftelijk
     verzoek te worden ingediend bij het partijbestuur dat wordt
     ondersteund door tenminste 50 leden.
