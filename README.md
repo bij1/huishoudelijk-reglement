@@ -45,6 +45,7 @@
     Zij bespreekt en besluit fundamentele politieke en organisatorische kwesties.
 
 1.  Ieder lid heeft toegang tot de algemene vergadering.
+    Richtlijnen over toegankelijkheid staan in het huishoudelijk reglement.
 
 1.  De algemene vergadering wordt georganiseerd en gefaciliteerd door het partijbestuur.
     Het partijbestuur stelt een voorstel voor een agenda op.
