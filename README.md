@@ -323,7 +323,7 @@
 1.  Leden van het partijbestuur worden benoemd, geschorst en ontslagen
     door de algemene vergadering voor een periode van ten hoogste 2 jaar.
 
-1.  Het partijbestuur bestaat uit tenminste drie leden.
+1.  Het partijbestuur bestaat uit ten minste drie leden.
     In geval een bestuur uit minder dan drie leden bestaat,
     wordt zo snel mogelijk een algemene vergadering belegd.
 
@@ -469,11 +469,11 @@
 1.  Om een volwaardige afdeling te worden, voldoet de afdeling in
     oprichting aan deze eisen:
 
-    1.  de afdeling in oprichting bestaat uit tenminste 25 leden die
+    1.  de afdeling in oprichting bestaat uit ten minste 25 leden die
         binnen het gebied van de afdeling wonen;
 
     1.  de afdeling in oprichting heeft een afdelingsbestuur gekozen van
-        tenminste 3 leden, dat functioneert conform de bepalingen in
+        ten minste 3 leden, dat functioneert conform de bepalingen in
         in het huishoudelijk reglement en de statuten van de partij;
 
     1.  de afdeling in oprichting dient een bestuursplan in binnen 30
@@ -518,7 +518,7 @@
 
 1.  De afdelingsvergadering is het hoogste orgaan binnen de afdeling.
 
-1.  De afdelingsvergadering komt tenminste eenmaal per jaar samen en voorts zo vaak
+1.  De afdelingsvergadering komt ten minste eenmaal per jaar samen en voorts zo vaak
     het afdelingsbestuur dit wenselijk acht.
 
 1.  Het afdelingsbestuur roept de afdelingsvergadering bijeen en stelt
@@ -549,7 +549,7 @@
 
 1.  De afdelingsvergadering kan door leden van een afdeling bijeen geroepen worden.
     Dit geschiedt via een schriftelijke bijeenroeping die wordt ondersteund door
-    tenminste 25 leden of door tenminste 10% van de leden van de afdeling,
+    ten minste 25 leden of door ten minste 10% van de leden van de afdeling,
     waarbij het laagste aantal telt.
     De agenda voor deze afdelingsvergadering bevat in ieder geval
     het door deze leden aan de orde gestelde punt.
@@ -645,7 +645,7 @@
     geschorst en ontslagen door de afdelingsvergadering.
     Afdelingsbestuurders worden gekozen voor een periode van ten hoogste twee jaar.
 
-1.  Een afdelingsbestuur bestaat uit tenminste drie leden.
+1.  Een afdelingsbestuur bestaat uit ten minste drie leden.
     In geval een bestuur uit minder dan drie leden bestaat,
     wordt zo snel mogelijk een afdelingsvergadering belegd.
 
@@ -1063,9 +1063,9 @@ wordt door het partijbestuur vastgelegd.
 1.  De algemene vergadering heeft het recht middels een gewone meerderheid
     een wijziging van het huishoudelijk reglement door de partijraad ongedaan te maken.
     Hiertoe dient een schriftelijk verzoek te worden ingediend bij het partijbestuur
-    dat wordt ondersteund door tenminste 50 leden.
+    dat wordt ondersteund door ten minste 50 leden.
 
 1.  Om een wijzigingsvoorstel tijdens een bijeenkomst van de algemene vergadering in
     stemming te brengen dient hiertoe een schriftelijk
     verzoek te worden ingediend bij het partijbestuur dat wordt
-    ondersteund door tenminste 50 leden.
+    ondersteund door ten minste 50 leden.
