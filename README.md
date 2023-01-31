@@ -193,7 +193,7 @@
 1.  Het partijbureau kan kandidaten uitsluiten voor verkiezing op grond
     dat:
 
-    1.  de persoon niet voldoet aan de in [lid 2 van dit artikel](#) gestelde
+    1.  de persoon niet voldoet aan de in [lid 6 van dit artikel](#) gestelde
         eisen; en/of
 
     1.  de integriteit van deze persoon omstreden is, zoals bepaald
