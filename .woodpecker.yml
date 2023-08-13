@@ -1,4 +1,4 @@
-pipeline:
+steps:
 
   package-ebook:
     image: witiko/markdown:latest
