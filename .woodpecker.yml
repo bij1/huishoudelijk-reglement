@@ -1,7 +1,7 @@
 pipeline:
 
   package-ebook:
-    image: pandoc/latex:latest
+    image: witiko/markdown:latest
     commands:
       - apk update && apk add curl
       - mkdir dist
@@ -15,7 +15,7 @@ pipeline:
       branch: main
 
   package-pdf:
-    image: witiko/markdown:latest
+    image: pandoc/latex:latest
     commands:
       - git submodule init && git submodule update
       - xelatex --shell-escape -interaction=nonstopmode main.tex
