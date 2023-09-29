@@ -589,9 +589,8 @@
 
 1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
     recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
-    moet een schriftelijke machtiging opgesteld worden door het lid wat
-    het gemachtigde lid bij zich moet hebben op de vergadering. Een lid
-    mag namens maximaal twee andere leden een stem uitbrengen.
+    moet een schriftelijke machtiging ingediend worden door het lid.
+    Een lid mag namens maximaal twee andere leden een stem uitbrengen.
 
 # Het Afdelingsbestuur
 
