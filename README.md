@@ -109,15 +109,8 @@
     hiervoor toegekend.
 
 1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
-    recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
-    moet een schriftelijke machtiging ingediend worden.
-    Het partijbestuur deelt in de uitnodiging mee hoe een machtiging
+    recht een ander lid te machtigen om namens hen te stemmen. Het partijbestuur deelt in de uitnodiging mee hoe een machtiging
     ingediend dient te worden.
-
-1.  Vierentwintig uur voor de vergadering
-    dient de machtiging door de volmachtgever ingediend te worden bij het partijbestuur.
-    Deze machtiging moet ter verificatie tevens door de gemachtigde worden meegenomen in de
-    vergadering.
 
 1.  Een gemachtigd lid mag namens maximaal twee andere leden een stem uitbrengen.
 
