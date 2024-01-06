@@ -339,8 +339,8 @@
 1.  De kandideringsprocedure voor bestuursleden loopt via een
     onafhankelijke kandidatencommissie, waarin geen mensen zitting
     hebben die zich verkiesbaar stellen.
-    De kandidatencommissie kan ervoor kiezen kandidaten voor te dragen of niet voor te dragen.
-    In beide gevallen dient de kandidatencommissie hun besluit te onderbouwen.
+    De kandidatencommissie kan aangemelde kandidaten niet afwijzen,
+    en heeft geen adviserende functie richting leden.
 
 1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de algemene ledenvergadering bepaald.
     Het zittende dan wel vertrekkende bestuur heeft hierin een adviserende rol.
@@ -681,10 +681,9 @@
     onafhankelijke kandidatencommissie, waarin geen mensen zitting
     hebben die zich verkiesbaar stellen.
 
-1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de
-    kandidatencommissie. De kandidatencommissie kan ervoor kiezen
-    kandidaten niet voor te dragen. In beide gevallen dient de
-    kandidatencommissie hun besluit te onderbouwen.
+1.  Kandidaten voor het afdelingsbestuur worden voorgedragen door de kandidatencommissie.
+    De kandidatencommissie kan aangemelde kandidaten niet afwijzen,
+    en heeft geen adviserende functie richting leden.
 
 1.  Verdere richtlijnen omtrent de verkiezing van afdelingsbestuursleden
     kunnen worden beschreven in het [verkiezingsbeleid](#) van de partij.
