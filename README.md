@@ -1067,5 +1067,4 @@ wordt door het partijbestuur vastgelegd.
 
 1.  Om een wijzigingsvoorstel tijdens een bijeenkomst van de algemene vergadering in
     stemming te brengen dient hiertoe een schriftelijk
-    verzoek te worden ingediend bij het partijbestuur dat wordt
-    ondersteund door tenminste 50 leden.
+    verzoek te worden ingediend bij het partijbestuur.
