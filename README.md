@@ -87,9 +87,6 @@
     stemming wenselijk acht.
     Over personen wordt altijd schriftelijk gestemd.
 
-1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
-    tenzij in de [statuten](#) of in dit reglement anders is bepaald.
-
 1.  De basisbepalingen over de besluitvorming zijn vastgelegd in de
     [statuten](#).
 
@@ -250,7 +247,7 @@
     oordeel omtrent de uitslag van een stemming is beslissend. Indien
     echter onmiddellijk na het uitspreken van dit oordeel de juistheid
     daarvan wordt betwist, vindt een nieuwe stemming plaats indien de
-    meerderheid van de vergadering dit verlangt. Door deze nieuwe
+    de vergadering dit besluit. Door deze nieuwe
     stemming vervallen de rechtsgevolgen van de oorspronkelijke
     stemming.
 
@@ -344,16 +341,6 @@
 
 1.  Het aantal voor verkiezing beschikbare bestuurszetels wordt door de algemene ledenvergadering bepaald.
     Het zittende dan wel vertrekkende bestuur heeft hierin een adviserende rol.
-
-1.  Kandidaten voor het partijbestuur zijn gekozen wanneer zij een
-    meerderheid van de uitgebrachte stemmen op de algemene vergadering
-    hebben behaald.
-
-1.  In geval dat er meer kandidaten worden verkozen dan
-    er bestuurszetels voor verkiezing beschikbaar zijn, geldt dat wie de meeste stemmen
-    heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
-    dat meerdere kandidaten zich voor een specifieke bestuursfunctie
-    verkiesbaar hebben gesteld.
 
 1.  Verdere richtlijnen omtrent de verkiezing van het partijbestuur kunnen worden
     beschreven in het [verkiezingsbeleid](#) van de partij.
@@ -578,15 +565,6 @@
     toezien op het tellen van de stemmen. Over personen wordt altijd
     schriftelijk gestemd.
 
-1.  Blanco stemmen en ongeldig uitgebrachte stemmen worden beschouwd als
-    te zijn van onwaarde en worden bij het bepalen van een meerderheid
-    niet meegeteld.
-
-1.  Besluiten worden genomen door een gewone meerderheid van stemmen,
-    tenzij in de [statuten](#) of dit reglement anders staat aangegeven.
-    Indien de stemmen staken, dan wordt er opnieuw gestemd.
-    Staken de stemmen nogmaals, dan beslist het lot.
-
 1.  Leden die niet bij een vergadering aanwezig kunnen zijn, hebben het
     recht een ander lid te machtigen om namens hen te stemmen. Hiervoor
     moet een schriftelijke machtiging opgesteld worden door het lid wat
@@ -660,14 +638,6 @@
     en uit het midden van het gekozen bestuur benoemd,
     tenzij de afdelingsvergadering ervoor kiest deze bestuursleden in functie te benoemen.
 
-1.  Kandidaten voor het afdelingsbestuur zijn gekozen wanneer zij een meerderheid
-    van de uitgebrachte stemmen op de afdelingsvergadering hebben behaald.
-    In geval dat er meer kandidaten verkozen worden dan
-    er bestuurszetels vacant zijn, geldt dat wie de meeste stemmen
-    heeft behaald gekozen is. Dit laatste geldt tevens in de situatie
-    dat meerdere kandidaten zich voor een specifieke bestuursfunctie
-    verkiesbaar hebben gesteld.
-
 1.  De samenstelling van het afdelingsbestuur, de functieverdeling
     binnen het afdelingsbestuur en wijzigingen in deze samenstelling en
     functieverdeling worden aan de leden van de afdeling, het partijbestuur,
@@ -691,8 +661,7 @@
 
 ## Artikel 20. Vergadering en Besluitvorming
 
-1.  Het afdelingsbestuur besluit met een gewone meerderheid van
-    stemmen. Voor een stemming moet een gewone meerderheid van de
+1.  Voor een stemming moet een meerderheid van de
     afdelingsbestuursleden een stem uitbrengen.
 
 1.  Bij de vergadering van het afdelingsbestuur zijn enkel welkom de
@@ -1042,10 +1011,10 @@ wordt door het partijbestuur vastgelegd.
 1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
     worden bij stemmingen blanco stemmen en ongeldig uitgebrachte stemmen
     beschouwd als te zijn van onwaarde en bij het bepalen
-    van een meerderheid niet meegeteld.
+    van een uitslag niet meegeteld.
 
-1.  Indien niet anders bepaald in de statuten of in dit huishoudelijk reglement
-    worden besluiten genomen met een gewone meerderheid van stemmen.
+1.  Indien de stemmen staken, dan wordt er opnieuw gestemd.
+    Staken de stemmen nogmaals, dan beslist het lot.
 
 ## Artikel 37. Aanpassing en afwijking van het reglement
 
